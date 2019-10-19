@@ -957,7 +957,7 @@ onAdDownloadComplete : function(issuccess,adNumber){
       var x = new kony.mvc.Navigation("frmDashboard");
       var uid = res[0].id;
       var obj={userId:uid};
-      x.navigate();
+      x.navigate(obj);
     };
     var enteredUserName = this.view.tbxUsername.text;
     var enteredPassword = this.view.tbxPassword.text;

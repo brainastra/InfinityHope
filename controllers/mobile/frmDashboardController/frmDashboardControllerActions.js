@@ -18,19 +18,14 @@ define({
         var ntf = new kony.mvc.Navigation("frmSelectOrg");
         ntf.navigate();
     },
-    /** onNavigate defined for frmDashboard **/
-    onNavigate: function AS_Form_de1ac8a06ed84894a4c5279e8f7180a4(eventobject) {
-        var self = this;
-        return self.onNavigate.call(this, null);
-    },
     /** postShow defined for frmDashboard **/
     AS_Form_cab2b132d41942a0abb5731e2680965f: function AS_Form_cab2b132d41942a0abb5731e2680965f(eventobject) {
         var self = this;
         return self.preshow.call(this, null);
     },
-    /** preShow defined for frmDashboard **/
-    AS_Form_hbb24703686245b0a7583c87ad5951a0: function AS_Form_hbb24703686245b0a7583c87ad5951a0(eventobject) {
+    /** onNavigate defined for frmDashboard **/
+    onNavigate: function AS_Form_de1ac8a06ed84894a4c5279e8f7180a4(eventobject) {
         var self = this;
-        return self.preshow.call(this, null);
+        return self.onNavigate.call(this, null);
     }
 });

@@ -2,7 +2,8 @@ define({
 
  //Type your controller code here 
   preShow : function(){
-    this.HamburgerFunc();
+    alert("xyzPre"+arguments);
+   // this.HamburgerFunc();
         var payload={"input":"1000000001"};
         var enteredUserName = 1000000001;
         var InfinityHopeObjServicesModel = kony.mvc.MDAApplication.getSharedInstance().modelStore.getModelDefinition("accountFetchInfinityHope");
@@ -11,6 +12,9 @@ define({
        InfinityHopeObjServicesModel.accountFetch(payload,this.cback);
     
 
+  },
+  onNavigate: function(){
+    alert("xyznav"+arguments);
   },
   cback: function(){
     kony.print("zyx"+JSON.stringify(arguments));

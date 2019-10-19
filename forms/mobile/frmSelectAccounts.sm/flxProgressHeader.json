@@ -3,7 +3,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "33.52%"
+        "value": "30%"
     },
     "_left_": {
         "type": "string",
@@ -54,7 +54,7 @@
     "kuid": "a8aba994adf34fa0a7903bbf81d72560",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "frmSelectAccounts",
+    "parent": "flxAccContainer",
     "pf": "frmSelectAccounts",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

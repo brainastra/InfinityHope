@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "23dp"
+        "value": "5%"
     },
     "_margin_": [
         0,
@@ -27,11 +27,11 @@
     "_text_": "",
     "_top_": {
         "type": "string",
-        "value": "40dp"
+        "value": "5%"
     },
     "_width_": {
         "type": "string",
-        "value": "300dp"
+        "value": "80%"
     },
     "autocapitalize": "none",
     "autocomplete": false,
@@ -51,7 +51,7 @@
     "kuid": "j001e209e39343c8b0ec11bdc6002105",
     "mode": "A",
     "name": "kony.ui.TextBox2",
-    "parent": "flxInviteeInfo",
+    "parent": "flxInviteeInfo1",
     "pf": "frmInviteFriends",
     "placeholderskin": "s58a43f376174da2bfc05365a1bf7cb3",
     "retaincontentalignment": false,

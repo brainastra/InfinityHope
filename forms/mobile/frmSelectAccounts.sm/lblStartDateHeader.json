@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "319dp"
+        "value": "75%"
     },
     "_margin_": [
         1,
@@ -26,7 +26,7 @@
     "_text_": "Start Date",
     "_top_": {
         "type": "string",
-        "value": "57dp"
+        "value": "20%"
     },
     "_width_": {
         "type": "ref",

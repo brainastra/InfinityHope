@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "32dp"
+        "value": "10%"
     },
     "_margin_": [
         6,
@@ -22,17 +22,21 @@
         0,
         0
     ],
-    "_skin_": "s0d1e0aaf05e405fba47ff61a353fb84",
+    "_skin_": "sb6dfb42b86a4586bd7498ce3b959a16",
     "_text_": "Setup Accounts",
     "_top_": {
         "type": "string",
-        "value": "647dp"
+        "value": "50%"
     },
     "_width_": {
         "type": "string",
-        "value": "300dp"
+        "value": "50%"
     },
     "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
     "containerweight": 100,
     "contentalignment": 5,
     "displaytext": true,

@@ -1,5 +1,8 @@
 define({ 
 
- //Type your controller code here 
+ sendInvite: function(){
+    var x = new kony.mvc.Navigation("frmHopeDashboard");
+    x.navigate({});
+ }
 
  });

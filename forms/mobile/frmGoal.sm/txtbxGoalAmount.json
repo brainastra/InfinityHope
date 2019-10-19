@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "23dp"
+        "value": "10%"
     },
     "_margin_": [
         0,
@@ -23,11 +23,11 @@
         0
     ],
     "_placeholder_": "Enter Amount",
-    "_skin_": "sd74102dc2bd4f8a89eaedbe679f57f4",
+    "_skin_": "s019e31654434929b3c751f2c1c06fb3",
     "_text_": "",
     "_top_": {
         "type": "string",
-        "value": "193dp"
+        "value": "20%"
     },
     "_width_": {
         "type": "string",
@@ -61,5 +61,5 @@
     "tooltip": "",
     "viewtype": "default",
     "wType": "TextField",
-    "zindex": 1
+    "zindex": 50
 }

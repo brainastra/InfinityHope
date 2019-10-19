@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "13dp"
+        "value": "5%"
     },
     "_margin_": [
         1,
@@ -22,11 +22,11 @@
         0,
         0
     ],
-    "_skin_": "s06ef667f8e0469dba2ea4c9a6eed053",
-    "_text_": "Account Setup",
+    "_skin_": "s76ec527377e4a48ac2a067533430f7f",
+    "_text_": "First Name",
     "_top_": {
         "type": "string",
-        "value": "403dp"
+        "value": "5%"
     },
     "_width_": {
         "type": "ref",
@@ -42,7 +42,7 @@
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "lblSetupAccounts",
+    "id": "lblInviteeName2",
     "info": null,
     "ipad": {
         "psp": {
@@ -55,11 +55,11 @@
         }
     },
     "iscustomlayout": false,
-    "isvisible": false,
-    "kuid": "b001ece5ce704a9e9f3102f2d0534223",
+    "isvisible": true,
+    "kuid": "b8afc1603b9045ddbfb2fa4b5148015b",
     "name": "kony.ui.Label",
-    "parent": "frmSelectAccounts",
-    "pf": "frmSelectAccounts",
+    "parent": "flxInviteeInfo2",
+    "pf": "frmInviteFriends",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "textstyle": {},

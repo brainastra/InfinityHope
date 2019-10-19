@@ -46,6 +46,7 @@
     "device": "iPhoneXS",
     "displayorientation": 1,
     "enabledforidletimeout": false,
+    "friendlyName": "frmHopeDashboard",
     "id": "frmHopeDashboard",
     "info": null,
     "initdone": false,

@@ -7,5 +7,9 @@ define({
         var self = this;
         var ntf = new kony.mvc.Navigation("frmInfo1");
         ntf.navigate();
+    },
+    /** preShow defined for frmDashboard **/
+    AS_Form_ffdacf2c074b4522a8b6934b70d7f0ee: function AS_Form_ffdacf2c074b4522a8b6934b70d7f0ee(eventobject) {
+        var self = this;
     }
 });

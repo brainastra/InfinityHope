@@ -6,10 +6,6 @@
         "type": "string",
         "value": "50dp"
     },
-    "_left_": {
-        "type": "string",
-        "value": "37dp"
-    },
     "_margin_": [
         6,
         6,
@@ -22,15 +18,15 @@
         0,
         0
     ],
-    "_skin_": "s0d1e0aaf05e405fba47ff61a353fb84",
+    "_skin_": "sb6dfb42b86a4586bd7498ce3b959a16",
     "_text_": "Continue",
     "_top_": {
         "type": "string",
-        "value": "337dp"
+        "value": "0%"
     },
     "_width_": {
         "type": "string",
-        "value": "300dp"
+        "value": "70%"
     },
     "canUpdateUI": true,
     "centerx": {
@@ -42,6 +38,7 @@
     "displaytext": true,
     "focusskin": "s207c6cfce214c9ba002feead09dc61e",
     "id": "btnContinuetoSetupDebitAccount",
+    "ide_onTouchEnd": "AS_Button_f4179ccafc104fb4bf8011c8289c71a8",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,

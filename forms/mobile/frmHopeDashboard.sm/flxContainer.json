@@ -53,7 +53,7 @@
     "iscustomlayout": false,
     "isvisible": true,
     "kuid": "h7c6889211d7447886f45d3ca313cb99",
-    "layouttype": 2,
+    "layouttype": 4,
     "name": "kony.ui.FlexContainer",
     "parent": "frmHopeDashboard",
     "pf": "frmHopeDashboard",

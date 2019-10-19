@@ -6,10 +6,6 @@
         "type": "ref",
         "value": "preferred"
     },
-    "_left_": {
-        "type": "string",
-        "value": "31dp"
-    },
     "_margin_": [
         1,
         1,
@@ -22,15 +18,15 @@
         0,
         0
     ],
-    "_skin_": "s76ec527377e4a48ac2a067533430f7f",
-    "_text_": "Phone Number",
+    "_skin_": "s2f6756753bc42cda41cb5f5ad7ff7f1",
+    "_text_": "Successfully Started Campaign.",
     "_top_": {
         "type": "string",
-        "value": "177dp"
+        "value": "0%"
     },
     "_width_": {
-        "type": "ref",
-        "value": "preferred"
+        "type": "string",
+        "value": "50%"
     },
     "_wrapping_": 2,
     "android": {
@@ -40,9 +36,13 @@
         }
     },
     "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
     "containerweight": 100,
-    "contentalignment": 4,
-    "id": "lblInviteePhone",
+    "contentalignment": 5,
+    "id": "lblSucess",
     "info": null,
     "ipad": {
         "psp": {
@@ -56,10 +56,10 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "b28c05e2ad52418a880128ecf9318c6a",
+    "kuid": "d5613a12ea304d80a615e47bfbfc1d45",
     "name": "kony.ui.Label",
-    "parent": "flxInviteeInfo",
-    "pf": "frmInviteFriends",
+    "parent": "flxSuccess",
+    "pf": "frmSelectAccounts",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "textstyle": {},

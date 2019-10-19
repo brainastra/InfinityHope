@@ -6,10 +6,6 @@
         "type": "ref",
         "value": "preferred"
     },
-    "_left_": {
-        "type": "string",
-        "value": "178dp"
-    },
     "_margin_": [
         1,
         1,
@@ -26,11 +22,11 @@
     "_text_": "Collected Amount/Target Amount",
     "_top_": {
         "type": "string",
-        "value": "117dp"
+        "value": "50%"
     },
     "_width_": {
         "type": "string",
-        "value": "71.11%"
+        "value": "80%"
     },
     "_wrapping_": 2,
     "android": {
@@ -42,7 +38,7 @@
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
-        "value": "49%"
+        "value": "50%"
     },
     "containerweight": 100,
     "contentalignment": 5,

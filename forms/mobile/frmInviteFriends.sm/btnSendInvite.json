@@ -6,10 +6,6 @@
         "type": "string",
         "value": "50dp"
     },
-    "_left_": {
-        "type": "string",
-        "value": "69dp"
-    },
     "_margin_": [
         6,
         6,
@@ -22,11 +18,11 @@
         0,
         0
     ],
-    "_skin_": "s0d1e0aaf05e405fba47ff61a353fb84",
+    "_skin_": "sb6dfb42b86a4586bd7498ce3b959a16",
     "_text_": "Send Invite",
     "_top_": {
         "type": "string",
-        "value": "263dp"
+        "value": "0%"
     },
     "_width_": {
         "type": "string",
@@ -42,12 +38,13 @@
     "displaytext": true,
     "focusskin": "s207c6cfce214c9ba002feead09dc61e",
     "id": "btnSendInvite",
+    "ide_onTouchEnd": "AS_Button_jd157130e7a34e33b84e74c6a732ecb5",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
     "kuid": "f7df9fdd3b59483c8f93040079a6027e",
     "name": "kony.ui.Button",
-    "parent": "flxInviteeInfo",
+    "parent": "flxInviteFrnds",
     "pf": "frmInviteFriends",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

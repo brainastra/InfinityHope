@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "27dp"
+        "value": "5%"
     },
     "_margin_": [
         1,
@@ -26,7 +26,7 @@
     "_text_": "First Name",
     "_top_": {
         "type": "string",
-        "value": "10dp"
+        "value": "5%"
     },
     "_width_": {
         "type": "ref",
@@ -58,7 +58,7 @@
     "isvisible": true,
     "kuid": "daeb964ca3e045a58f654a99135e821c",
     "name": "kony.ui.Label",
-    "parent": "flxInviteeInfo",
+    "parent": "flxInviteeInfo1",
     "pf": "frmInviteFriends",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

@@ -6,10 +6,6 @@
         "type": "ref",
         "value": "preferred"
     },
-    "_left_": {
-        "type": "string",
-        "value": "194dp"
-    },
     "_margin_": [
         1,
         1,
@@ -26,11 +22,11 @@
     "_text_": "$30/$500",
     "_top_": {
         "type": "string",
-        "value": "130dp"
+        "value": "60%"
     },
     "_width_": {
         "type": "string",
-        "value": "55.33%"
+        "value": "70%"
     },
     "_wrapping_": 2,
     "android": {

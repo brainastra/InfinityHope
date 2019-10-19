@@ -6,10 +6,6 @@
         "type": "ref",
         "value": "preferred"
     },
-    "_left_": {
-        "type": "string",
-        "value": "162dp"
-    },
     "_margin_": [
         1,
         1,
@@ -26,7 +22,7 @@
     "_text_": "OR",
     "_top_": {
         "type": "string",
-        "value": "287dp"
+        "value": "30%"
     },
     "_width_": {
         "type": "ref",

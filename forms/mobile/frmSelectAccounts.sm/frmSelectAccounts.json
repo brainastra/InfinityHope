@@ -15,7 +15,7 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "safab928497740048bff770b5d9a4e86",
+    "_skin_": "s9649bdc5050492593e4b258319b23b4",
     "_title_": null,
     "addWidgetsdone": false,
     "allboxes": [],
@@ -30,10 +30,7 @@
     },
     "canUpdateUI": true,
     "children": [
-        "flxProgressHeader",
-        "lblSetupAccounts",
-        "flxEnrollAccount",
-        "flxSetupDebitAccount"
+        "flxAccContainer"
     ],
     "containerweight": 100,
     "controllerInfo": {

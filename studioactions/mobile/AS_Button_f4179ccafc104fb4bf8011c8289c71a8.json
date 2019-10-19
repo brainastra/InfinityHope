@@ -1,0 +1,34 @@
+{
+    "AS_Button_f4179ccafc104fb4bf8011c8289c71a8": {
+        "id": "AS_Button_f4179ccafc104fb4bf8011c8289c71a8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmSelectAccounts",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d88d531126124930a595c841f2ddf792"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___a456833c2bba4b9e8ad993b4840e5bbb",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "selectDebitAccount",
+            "display": "selectDebitAccount",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

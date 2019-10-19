@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "18dp"
+        "value": "5%"
     },
     "_margin_": [
         1,
@@ -26,7 +26,7 @@
     "_text_": "Jane Doe",
     "_top_": {
         "type": "string",
-        "value": "88dp"
+        "value": "30%"
     },
     "_width_": {
         "type": "ref",

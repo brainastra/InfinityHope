@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "27dp"
+        "value": "5%"
     },
     "_margin_": [
         0,
@@ -22,16 +22,16 @@
         0,
         0
     ],
-    "_placeholder_": "Enter Phone Number",
+    "_placeholder_": "Enter First Name",
     "_skin_": "sd74102dc2bd4f8a89eaedbe679f57f4",
     "_text_": "",
     "_top_": {
         "type": "string",
-        "value": "207dp"
+        "value": "5%"
     },
     "_width_": {
         "type": "string",
-        "value": "300dp"
+        "value": "80%"
     },
     "autocapitalize": "none",
     "autocomplete": false,
@@ -43,15 +43,15 @@
     "containerweight": 100,
     "contentalignment": 4,
     "focusskin": "s5c9c3a7ebb4451ea5956f1caaa89fd9",
-    "id": "txtbxInviteePhone",
+    "id": "txtbxInviteeName2",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
     "keyboardtype": "A",
-    "kuid": "ae1ed7f04d404a87ac7907ba881d1967",
+    "kuid": "d53876da57e24dd09305c702d91a4734",
     "mode": "A",
     "name": "kony.ui.TextBox2",
-    "parent": "flxInviteeInfo",
+    "parent": "flxInviteeInfo2",
     "pf": "frmInviteFriends",
     "placeholderskin": "s58a43f376174da2bfc05365a1bf7cb3",
     "retaincontentalignment": false,

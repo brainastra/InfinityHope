@@ -1,0 +1,34 @@
+{
+    "AS_Button_jd157130e7a34e33b84e74c6a732ecb5": {
+        "id": "AS_Button_jd157130e7a34e33b84e74c6a732ecb5",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmInviteFriends",
+            "type": "forms",
+            "platform": "",
+            "KUID": "deabc7bc28bf42c697ef01efc1f49b8a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___c5bb338b4d494e788f31fdf5c1753e72",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "sendInvite",
+            "display": "sendInvite",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

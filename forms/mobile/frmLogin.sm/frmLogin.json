@@ -29,7 +29,9 @@
         "needAppMenu": false
     },
     "canUpdateUI": true,
-    "children": [],
+    "children": [
+        "btnNavigate"
+    ],
     "containerweight": 100,
     "controllerInfo": {
         "default": {

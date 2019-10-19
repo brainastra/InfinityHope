@@ -1,9 +1,205 @@
 {
     "HEAD": "w017d15b385f4e19bd4ab1d92c3f0c99",
     "w017d15b385f4e19bd4ab1d92c3f0c99": {
-        "children": [],
+        "children": [
+            "w47d5d1f084c4cf5a0faddae99a1877b",
+            "w75073b8fec2436a8e4516a9c7c7b4b2",
+            "w556a5a54b4b4b3cad3a926e96614844"
+        ],
         "kuid": "w017d15b385f4e19bd4ab1d92c3f0c99",
         "name": "localfiles",
         "type": "L"
+    },
+    "w287cb3d1ce44a33a7649effbd264c4a": {
+        "extension": "js",
+        "kuid": "w287cb3d1ce44a33a7649effbd264c4a",
+        "name": "LIC.js",
+        "parent": "w75073b8fec2436a8e4516a9c7c7b4b2",
+        "type": "F"
+    },
+    "w2b622bb1214471082670b387531b0ff": {
+        "extension": "js",
+        "kuid": "w2b622bb1214471082670b387531b0ff",
+        "name": "chartistlegend.js",
+        "parent": "w47d5d1f084c4cf5a0faddae99a1877b",
+        "type": "F"
+    },
+    "w32a6401e53c44fb90217217cfc3bf60": {
+        "extension": "js",
+        "kuid": "w32a6401e53c44fb90217217cfc3bf60",
+        "name": "chartist.js",
+        "parent": "w47d5d1f084c4cf5a0faddae99a1877b",
+        "type": "F"
+    },
+    "w41b326429d445cfb338fd34e8bcb3be": {
+        "extension": "html",
+        "kuid": "w41b326429d445cfb338fd34e8bcb3be",
+        "name": "partialPie.html",
+        "parent": "w75073b8fec2436a8e4516a9c7c7b4b2",
+        "type": "F"
+    },
+    "w47d5d1f084c4cf5a0faddae99a1877b": {
+        "children": [
+            "w719da577a6244cbbda62aea8eb5572c",
+            "w32a6401e53c44fb90217217cfc3bf60",
+            "w2b622bb1214471082670b387531b0ff",
+            "wf78c7d6289d43ee8a1d715982a47422",
+            "w81c29081414458393c16cbcf695e745",
+            "w595775a700c4e9fb73a4fac608744b5",
+            "wac512db419f40a690c0f8f7361007d9"
+        ],
+        "kuid": "w47d5d1f084c4cf5a0faddae99a1877b",
+        "name": "Chart_pie",
+        "parent": "w017d15b385f4e19bd4ab1d92c3f0c99",
+        "type": "D"
+    },
+    "w49aec6c693b41f3add68fa46c52271c": {
+        "extension": "js",
+        "kuid": "w49aec6c693b41f3add68fa46c52271c",
+        "name": "chartistlegend.js",
+        "parent": "w75073b8fec2436a8e4516a9c7c7b4b2",
+        "type": "F"
+    },
+    "w556a5a54b4b4b3cad3a926e96614844": {
+        "children": [
+            "w58d1122de484e79b36f6b1fa46b0f30",
+            "wf4a39ee75df41a1a34fb7444df0f91b",
+            "w5f8662435b7424cb781bd64830d4ceb",
+            "w69943ccc4284e968fcf80f881d096ca",
+            "wde3f7357a064c098eff419132d074f5",
+            "w75c2e94bd2247d583f234b327b925f8",
+            "w8c597e107b342deb2390db7bc95c125"
+        ],
+        "kuid": "w556a5a54b4b4b3cad3a926e96614844",
+        "name": "CopyChart_pie",
+        "parent": "w017d15b385f4e19bd4ab1d92c3f0c99",
+        "type": "D"
+    },
+    "w55fc37adf8f4dc08ffa6fd63438dff2": {
+        "extension": "css",
+        "kuid": "w55fc37adf8f4dc08ffa6fd63438dff2",
+        "name": "chartitst.css",
+        "parent": "w75073b8fec2436a8e4516a9c7c7b4b2",
+        "type": "F"
+    },
+    "w58d1122de484e79b36f6b1fa46b0f30": {
+        "extension": "js",
+        "kuid": "w58d1122de484e79b36f6b1fa46b0f30",
+        "name": "chartist-plugin-axistitle.js",
+        "parent": "w556a5a54b4b4b3cad3a926e96614844",
+        "type": "F"
+    },
+    "w595775a700c4e9fb73a4fac608744b5": {
+        "extension": "js",
+        "kuid": "w595775a700c4e9fb73a4fac608744b5",
+        "name": "LIC.js",
+        "parent": "w47d5d1f084c4cf5a0faddae99a1877b",
+        "type": "F"
+    },
+    "w5f8662435b7424cb781bd64830d4ceb": {
+        "extension": "js",
+        "kuid": "w5f8662435b7424cb781bd64830d4ceb",
+        "name": "chartistlegend.js",
+        "parent": "w556a5a54b4b4b3cad3a926e96614844",
+        "type": "F"
+    },
+    "w69943ccc4284e968fcf80f881d096ca": {
+        "extension": "js",
+        "kuid": "w69943ccc4284e968fcf80f881d096ca",
+        "name": "chartist_pie.js",
+        "parent": "w556a5a54b4b4b3cad3a926e96614844",
+        "type": "F"
+    },
+    "w6f963bd5da74d47a60171be7a72fa24": {
+        "extension": "js",
+        "kuid": "w6f963bd5da74d47a60171be7a72fa24",
+        "name": "chartist_partialPie.js",
+        "parent": "w75073b8fec2436a8e4516a9c7c7b4b2",
+        "type": "F"
+    },
+    "w719da577a6244cbbda62aea8eb5572c": {
+        "extension": "js",
+        "kuid": "w719da577a6244cbbda62aea8eb5572c",
+        "name": "chartist-plugin-axistitle.js",
+        "parent": "w47d5d1f084c4cf5a0faddae99a1877b",
+        "type": "F"
+    },
+    "w75073b8fec2436a8e4516a9c7c7b4b2": {
+        "children": [
+            "wde7e586b78a403d8a1114db6b4a6d25",
+            "wb8a6ed40a3f462d9417067ef120d368",
+            "w49aec6c693b41f3add68fa46c52271c",
+            "w6f963bd5da74d47a60171be7a72fa24",
+            "w55fc37adf8f4dc08ffa6fd63438dff2",
+            "w287cb3d1ce44a33a7649effbd264c4a",
+            "w41b326429d445cfb338fd34e8bcb3be"
+        ],
+        "kuid": "w75073b8fec2436a8e4516a9c7c7b4b2",
+        "name": "chart_partialPie",
+        "parent": "w017d15b385f4e19bd4ab1d92c3f0c99",
+        "type": "D"
+    },
+    "w75c2e94bd2247d583f234b327b925f8": {
+        "extension": "js",
+        "kuid": "w75c2e94bd2247d583f234b327b925f8",
+        "name": "LIC.js",
+        "parent": "w556a5a54b4b4b3cad3a926e96614844",
+        "type": "F"
+    },
+    "w81c29081414458393c16cbcf695e745": {
+        "extension": "css",
+        "kuid": "w81c29081414458393c16cbcf695e745",
+        "name": "chartitst.css",
+        "parent": "w47d5d1f084c4cf5a0faddae99a1877b",
+        "type": "F"
+    },
+    "w8c597e107b342deb2390db7bc95c125": {
+        "extension": "html",
+        "kuid": "w8c597e107b342deb2390db7bc95c125",
+        "name": "Pie_chartistChart.html",
+        "parent": "w556a5a54b4b4b3cad3a926e96614844",
+        "type": "F"
+    },
+    "wac512db419f40a690c0f8f7361007d9": {
+        "extension": "html",
+        "kuid": "wac512db419f40a690c0f8f7361007d9",
+        "name": "Pie_chartistChart.html",
+        "parent": "w47d5d1f084c4cf5a0faddae99a1877b",
+        "type": "F"
+    },
+    "wb8a6ed40a3f462d9417067ef120d368": {
+        "extension": "js",
+        "kuid": "wb8a6ed40a3f462d9417067ef120d368",
+        "name": "chartist.js",
+        "parent": "w75073b8fec2436a8e4516a9c7c7b4b2",
+        "type": "F"
+    },
+    "wde3f7357a064c098eff419132d074f5": {
+        "extension": "css",
+        "kuid": "wde3f7357a064c098eff419132d074f5",
+        "name": "chartitst.css",
+        "parent": "w556a5a54b4b4b3cad3a926e96614844",
+        "type": "F"
+    },
+    "wde7e586b78a403d8a1114db6b4a6d25": {
+        "extension": "js",
+        "kuid": "wde7e586b78a403d8a1114db6b4a6d25",
+        "name": "chartist-plugin-axistitle.js",
+        "parent": "w75073b8fec2436a8e4516a9c7c7b4b2",
+        "type": "F"
+    },
+    "wf4a39ee75df41a1a34fb7444df0f91b": {
+        "extension": "js",
+        "kuid": "wf4a39ee75df41a1a34fb7444df0f91b",
+        "name": "chartist.js",
+        "parent": "w556a5a54b4b4b3cad3a926e96614844",
+        "type": "F"
+    },
+    "wf78c7d6289d43ee8a1d715982a47422": {
+        "extension": "js",
+        "kuid": "wf78c7d6289d43ee8a1d715982a47422",
+        "name": "chartist_pie.js",
+        "parent": "w47d5d1f084c4cf5a0faddae99a1877b",
+        "type": "F"
     }
 }

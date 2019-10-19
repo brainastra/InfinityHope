@@ -36,7 +36,8 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "Label0h12aa2c471ce4b"
+        "lblInviteFrndsHeader",
+        "lblDescription"
     ],
     "clipbounds": true,
     "containerweight": 100,

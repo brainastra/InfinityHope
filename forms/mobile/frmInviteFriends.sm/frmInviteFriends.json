@@ -30,7 +30,8 @@
     },
     "canUpdateUI": true,
     "children": [
-        "flxInviteFrnds"
+        "flxInviteFrnds",
+        "flxInviteeInfo"
     ],
     "containerweight": 100,
     "controllerInfo": {

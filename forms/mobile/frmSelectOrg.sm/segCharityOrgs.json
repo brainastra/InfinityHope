@@ -183,6 +183,7 @@
     "groupcells": false,
     "hasSections": false,
     "id": "segCharityOrgs",
+    "ide_onRowClick": "AS_Segment_j0c8c75fb9624f25811954853c98c33d",
     "info": null,
     "ipad": {
         "psp": {
@@ -223,7 +224,7 @@
     "selectedindex": null,
     "selectedindices": null,
     "selecteditems": null,
-    "selectedsectionindex": null,
+    "selectedsectionindex": 0,
     "selectionbehavior": "default",
     "separatorcolor": "aaaaaa00",
     "separatorrequired": true,

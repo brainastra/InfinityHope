@@ -47,6 +47,7 @@
     "containerweight": 100,
     "contentalignment": 5,
     "id": "lblFooter1",
+    "ide_onTouchEnd": "AS_Label_d78bc90b46314fcb9494ab5b0ea2e74c",
     "info": null,
     "ipad": {
         "psp": {

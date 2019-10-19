@@ -1,0 +1,37 @@
+{
+    "AS_Segment_j0c8c75fb9624f25811954853c98c33d": {
+        "id": "AS_Segment_j0c8c75fb9624f25811954853c98c33d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmSelectOrg",
+            "type": "forms",
+            "platform": "",
+            "KUID": "eb368f9ac2fb4de3bbaddfa06a1cb9f2"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___j8d8f80d6684428b9e13b90c3e9c338a",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmGoal",
+            "formKUID": "d69747332ffd4081963d4f0ed748001c",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": null,
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onRowClick\",\n        \"widgetId\": \"segCharityOrgs\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

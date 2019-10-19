@@ -23,6 +23,7 @@
             "id": "NAVIGATE_TO_FORM___c4d680db448d4a9caa5bb24b8e1f1aac",
             "type": "NAVIGATE_TO_FORM",
             "formId": "frmSelectAccounts",
+            "friendlyName": "frmSelectAccounts",
             "formKUID": "d88d531126124930a595c841f2ddf792",
             "mappings": {},
             "mappingsOrder": [],

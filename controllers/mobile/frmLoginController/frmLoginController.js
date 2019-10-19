@@ -952,16 +952,19 @@ onAdDownloadComplete : function(issuccess,adNumber){
             scopeObj.resetSkinsOfUsernameAndPwd();
         }, 1.5, false);
     },
-    btnLoginOnClick: function() {
-       var getCustomerCallback = function(status, res, err) {
-           
-        };
-        var enteredUserName = this.view.tbxUsername.text;
-        var enteredPassword = this.view.tbxPassword.text;
-        var customerModel = kony.mvc.MDAApplication.getSharedInstance().modelStore.getModelDefinition("Customer");
-        var criteria = kony.mvc.Expression.eq("$filter", "UserName eq " + enteredUserName + " and Password eq " +  enteredPassword);
-        customerModel.getByCriteria(criteria, getCustomerCallback);  
-    },
+  btnLoginOnClick: function() {
+    var getCustomerCallback = function(status, res, err) {
+      var x = new kony.mvc.Navigation("frmDashboard");
+      var uid = res[0].id;
+      var obj={userId:uid};
+      x.navigate();
+    };
+    var enteredUserName = this.view.tbxUsername.text;
+    var enteredPassword = this.view.tbxPassword.text;
+    var customerModel = kony.mvc.MDAApplication.getSharedInstance().modelStore.getModelDefinition("Customer");
+    var criteria = kony.mvc.Expression.eq("$filter", "UserName eq " + enteredUserName + " and Password eq " +  enteredPassword);
+    customerModel.getByCriteria(criteria, getCustomerCallback);  
+  },
     resetSkinsOfUsernameAndPwd: function() {
 	    scopeObj=this;
         scopeObj.view.tbxUsername.skin = "sknTbx424242SSPRegular28px";

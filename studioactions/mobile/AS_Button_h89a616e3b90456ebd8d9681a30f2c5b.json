@@ -1,32 +1,28 @@
 {
     "AS_Button_h89a616e3b90456ebd8d9681a30f2c5b": {
-        "actions": [
-            {
-                "callbackType": null,
-                "disabled": null,
-                "display": "btnLoginOnClick",
-                "id": "INVOKE_FUNCTION___bfcca5c4dd914829ab50945f7a18a4ab",
-                "inputparams": [],
-                "parentId": null,
-                "sequenceKUID": "btnLoginOnClick",
-                "source": "controller",
-                "type": "INVOKE_FUNCTION"
-            }
-        ],
+        "id": "AS_Button_h89a616e3b90456ebd8d9681a30f2c5b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
         "contextObj": {
             "KUID": "h65c10a2cabc493c8ac9ef9c703d1486",
             "name": "frmLogin",
             "platform": "",
             "type": "forms"
         },
-        "id": "AS_Button_h89a616e3b90456ebd8d9681a30f2c5b",
         "language": "js",
-        "params": [
-            {
-                "datatype": "collection",
-                "name": "eventobject"
-            }
-        ],
-        "type": "ACTION_SEQUENCE"
+        "actions": [{
+            "id": "INVOKE_FUNCTION___bfcca5c4dd914829ab50945f7a18a4ab",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "btnLoginOnClick",
+            "display": "btnLoginOnClick",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
     }
 }

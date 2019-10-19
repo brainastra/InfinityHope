@@ -50,6 +50,8 @@
     "enabledforidletimeout": false,
     "friendlyName": "frmDashboard",
     "id": "frmDashboard",
+    "ide_onNavigate": "AS_Form_de1ac8a06ed84894a4c5279e8f7180a4",
+    "ide_postShow": "AS_Form_cab2b132d41942a0abb5731e2680965f",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,

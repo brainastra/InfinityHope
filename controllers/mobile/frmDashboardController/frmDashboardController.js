@@ -1,5 +1,5 @@
 define({ 
-
+useridReceived:null,
  //Type your controller code here 
   preShow : function(){
     alert("xyzPre"+arguments);
@@ -14,7 +14,7 @@ define({
 
   },
   onNavigate: function(){
-    alert("xyznav"+arguments);
+     this.useridReceived=arguments[0].userId;
   },
   cback: function(){
     kony.print("zyx"+JSON.stringify(arguments));

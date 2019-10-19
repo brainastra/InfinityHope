@@ -15,7 +15,7 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s9649bdc5050492593e4b258319b23b4",
+    "_skin_": "safab928497740048bff770b5d9a4e86",
     "_title_": null,
     "addWidgetsdone": false,
     "allboxes": [],
@@ -30,23 +30,23 @@
     },
     "canUpdateUI": true,
     "children": [
-        "flxContainer"
+        "txtbxSearch"
     ],
     "containerweight": 100,
     "controllerInfo": {
         "default": {
             "channel": "mobile",
-            "name": "frmHopeDashboardController"
+            "name": "frmSelectOrgController"
         }
     },
     "currentLocale": "default",
     "desktopweb": {
         "needAppMenu": false
     },
-    "device": "iPhoneXS",
+    "device": "Pixel3",
     "displayorientation": 1,
     "enabledforidletimeout": false,
-    "id": "frmHopeDashboard",
+    "id": "frmSelectOrg",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,
@@ -64,7 +64,7 @@
             "titleBarAttributes": {
                 "barStyle": 0,
                 "hidesBackButton": false,
-                "kuid": "i7b3a88c89b6452caf619e433b6a7cbd",
+                "kuid": "g254337acc5c4342a8ed2a1b58acb201",
                 "leftBarButtonItems": [],
                 "leftItemsSupplementBackButton": true,
                 "prompt": "",
@@ -75,7 +75,7 @@
                         "info": {
                             "title": "Edit"
                         },
-                        "kuid": "c5761cf21eb34f0582ab3784f7986375",
+                        "kuid": "fda54c264c014a4ca4dd295b66ab1ac5",
                         "style": 0,
                         "tintColor": "4b88f100",
                         "type": 1
@@ -92,18 +92,18 @@
     "kiosk": {
         "needAppMenu": false
     },
-    "kuid": "h8cff1bac8724ed38e629ce3248f6d25",
+    "kuid": "eb368f9ac2fb4de3bbaddfa06a1cb9f2",
     "layouttype": 2,
     "name": "kony.ui.Form2",
     "needappmenu": false,
     "paddinginpixel": false,
-    "platform": "iphone",
+    "platform": "android",
     "prevDevice": "iPhoneXS",
     "prevPlatform": "iphone",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainscrollposition": false,
-    "shellCSS": "iOS_iPhoneXS",
+    "shellCSS": "and_Pixel3",
     "snapgridsize": 10,
     "snaptogrid": true,
     "spaan": {

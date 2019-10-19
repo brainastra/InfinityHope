@@ -15,7 +15,7 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s2e9f05384b54c5098135d704cfecce1",
+    "_skin_": "s301056c61614e0c85d8f7327c8b359a",
     "_title_": null,
     "addWidgetsdone": false,
     "allboxes": [],
@@ -30,14 +30,16 @@
     },
     "canUpdateUI": true,
     "children": [
-        "lbl1Invite1",
-        "imgSplash1"
+        "lbl1Invite3",
+        "imgSplash2",
+        "flxGetSrarted",
+        "flxFooter"
     ],
     "containerweight": 100,
     "controllerInfo": {
         "default": {
             "channel": "mobile",
-            "name": "frmInvite1Controller"
+            "name": "frmInfo3Controller"
         }
     },
     "currentLocale": "default",
@@ -47,7 +49,7 @@
     "device": "iPhoneXS",
     "displayorientation": 1,
     "enabledforidletimeout": false,
-    "id": "frmInvite1",
+    "id": "frmInfo3",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,
@@ -65,7 +67,7 @@
             "titleBarAttributes": {
                 "barStyle": 0,
                 "hidesBackButton": false,
-                "kuid": "g0f5f049c1f243bd92aa0672f4b9e222",
+                "kuid": "f0ba7c8dac084678a39a15ac49477ff6",
                 "leftBarButtonItems": [],
                 "leftItemsSupplementBackButton": true,
                 "prompt": "",
@@ -76,7 +78,7 @@
                         "info": {
                             "title": "Edit"
                         },
-                        "kuid": "a414b3b5061a4e4fa0f77ac98b989666",
+                        "kuid": "be43d477702c47daa539183622851716",
                         "style": 0,
                         "tintColor": "4b88f100",
                         "type": 1
@@ -93,7 +95,7 @@
     "kiosk": {
         "needAppMenu": false
     },
-    "kuid": "h975b368ae5c4763946615dcf0a30e0d",
+    "kuid": "cb6a5fe4c25841d0b67017141d5c3fb3",
     "layouttype": 2,
     "name": "kony.ui.Form2",
     "needappmenu": false,

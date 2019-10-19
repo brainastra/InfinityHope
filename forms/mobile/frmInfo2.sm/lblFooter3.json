@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "101dp"
+        "value": "0dp"
     },
     "_margin_": [
         1,
@@ -22,11 +22,11 @@
         0,
         0
     ],
-    "_skin_": "s68bb25650994cda8dc07ba7a3682173",
-    "_text_": "Be charitable and help the society",
+    "_skin_": "s87fe00f7cd241438d1793798aeef2a4",
+    "_text_": "Next>",
     "_top_": {
         "type": "string",
-        "value": "37dp"
+        "value": "17dp"
     },
     "_width_": {
         "type": "ref",
@@ -40,9 +40,13 @@
         }
     },
     "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
     "containerweight": 100,
-    "contentalignment": 4,
-    "id": "lbl1Invite2",
+    "contentalignment": 5,
+    "id": "lblFooter3",
     "info": null,
     "ipad": {
         "psp": {
@@ -56,10 +60,10 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "jaf1c2bac6ab48f5aa3b2d2eb75906bb",
+    "kuid": "e7d13fc8b93e4fdd92e3af934bdf4b10",
     "name": "kony.ui.Label",
-    "parent": "frmInvite2",
-    "pf": "frmInvite2",
+    "parent": "flxInnerFooter3",
+    "pf": "frmInfo2",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "textstyle": {},

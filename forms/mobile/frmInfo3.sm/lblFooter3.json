@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "100dp"
+        "value": "0dp"
     },
     "_margin_": [
         1,
@@ -22,15 +22,15 @@
         0,
         0
     ],
-    "_skin_": "s68bb25650994cda8dc07ba7a3682173",
-    "_text_": "How does Inifinity Hope work?",
+    "_skin_": "s87fe00f7cd241438d1793798aeef2a4",
+    "_text_": "Next>",
     "_top_": {
         "type": "string",
-        "value": "37dp"
+        "value": "17dp"
     },
     "_width_": {
-        "type": "string",
-        "value": "65%"
+        "type": "ref",
+        "value": "preferred"
     },
     "_wrapping_": 2,
     "android": {
@@ -40,9 +40,13 @@
         }
     },
     "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
     "containerweight": 100,
-    "contentalignment": 4,
-    "id": "lbl1Invite1",
+    "contentalignment": 5,
+    "id": "lblFooter3",
     "info": null,
     "ipad": {
         "psp": {
@@ -56,10 +60,10 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "fd339717b3ae44acb6611e87a345a037",
+    "kuid": "he3b05f337bd46e79d62a62856e6863b",
     "name": "kony.ui.Label",
-    "parent": "frmInvite1",
-    "pf": "frmInvite1",
+    "parent": "flxInnerFooter3",
+    "pf": "frmInfo3",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "textstyle": {},

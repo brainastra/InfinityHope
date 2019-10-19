@@ -5,11 +5,11 @@
     "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "500dp"
+        "value": "100dp"
     },
     "_left_": {
         "type": "string",
-        "value": "100dp"
+        "value": "125dp"
     },
     "_margin_": [
         0,
@@ -23,21 +23,25 @@
         0,
         0
     ],
-    "_skin_": "sae1bcf36d764375bc22cd6c52a6be3e",
-    "_src_": "info2.PNG",
+    "_skin_": "scefd3c346b24f14a817f3eb0954ed08",
+    "_src_": "kony_300.png",
     "_top_": {
         "type": "string",
-        "value": "110dp"
+        "value": "10dp"
     },
     "_width_": {
         "type": "string",
-        "value": "200dp"
+        "value": "150dp"
     },
     "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
     "containerweight": 100,
     "context": {
         "channel": "mobile",
-        "formID": "frmInfo2",
+        "formID": "frmInfo1",
         "platform": "iphone",
         "templateType": "forms",
         "topLevelBox": null
@@ -48,10 +52,10 @@
     "invokedProperty": "src",
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "cea6d2f49c0341c7bb0de0bc436cc83d",
+    "kuid": "b8e94b884ee34e22a45d3e009a8a44d4",
     "name": "kony.ui.Image2",
-    "parent": "frmInfo2",
-    "pf": "frmInfo2",
+    "parent": "flxImages",
+    "pf": "frmInfo1",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "srcType": 1,

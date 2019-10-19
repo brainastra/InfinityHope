@@ -31,7 +31,8 @@
     "canUpdateUI": true,
     "children": [
         "lbl1Invite1",
-        "imgSplash1",
+        "flxImages",
+        "flxGetSrarted",
         "flxFooter"
     ],
     "containerweight": 100,

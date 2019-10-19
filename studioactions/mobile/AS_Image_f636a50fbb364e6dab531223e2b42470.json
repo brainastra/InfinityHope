@@ -13,7 +13,6 @@
             "name": "y"
         }],
         "contextObj": {
-            "name": "frmInfo3",
             "type": "forms",
             "platform": "",
             "KUID": "cb6a5fe4c25841d0b67017141d5c3fb3"
@@ -30,7 +29,7 @@
             "callbackType": null,
             "enableMappingEditor": true,
             "package": "",
-            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onTouchEnd\",\n        \"widgetId\": \"Image0d03e42e67a1344\"\n    }\n}",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"\",\n        \"widgetId\": \"\"\n    }\n}",
             "isCustomInput": false
         }]
     }

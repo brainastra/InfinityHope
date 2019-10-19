@@ -22,7 +22,6 @@
         "actions": [{
             "id": "NAVIGATE_TO_FORM___d30d42e0889b47aaa5dc023ead5bcd2c",
             "type": "NAVIGATE_TO_FORM",
-            "formId": "frmInfo2",
             "formKUID": "f50fc1d07a5a402dba7e4f1a265e6134",
             "mappings": {},
             "mappingsOrder": [],
@@ -30,7 +29,7 @@
             "callbackType": null,
             "enableMappingEditor": true,
             "package": "",
-            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onTouchEnd\",\n        \"widgetId\": \"lblFooter3\"\n    }\n}",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"\",\n        \"widgetId\": \"\"\n    }\n}",
             "isCustomInput": false
         }]
     }

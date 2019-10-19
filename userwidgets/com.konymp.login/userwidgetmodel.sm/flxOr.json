@@ -1,13 +1,9 @@
 {
     "DNDConfig": null,
     "__parentReadjusting__": false,
-    "_bottom_": {
-        "type": "string",
-        "value": "133dp"
-    },
     "_height_": {
         "type": "string",
-        "value": "50%"
+        "value": "40%"
     },
     "_left_": {
         "type": "string",
@@ -27,10 +23,10 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s47692dcf923489abadb95f27c11b257",
+    "_skin_": "sbd66b5c9c92450cab65c50af4013eb1",
     "_top_": {
         "type": "string",
-        "value": "0dp"
+        "value": "0%"
     },
     "_width_": {
         "type": "string",
@@ -40,26 +36,24 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "segAccCheckingsAcc"
+        "lblLine1",
+        "lblOr",
+        "lblLine2"
     ],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "flxBody",
+    "id": "flxOr",
     "info": null,
-    "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "g530f02e5f304a74be12d0a79a02ccfc",
-    "layouttype": 4,
+    "kuid": "j815614b0997439eb1f3ae0a60fd511f",
+    "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "flxMain",
-    "pf": "frmDashboard",
-    "retaincontentalignment": false,
-    "retainflexpositionproperties": false,
-    "retainflowhorizontalalignment": false,
+    "parent": "flxSocialLogin",
+    "pf": "userwidgetmodel",
     "snapgridsize": 10,
     "snaptogrid": true,
     "wType": "FlexContainer",
     "widgetalignment": 1,
-    "zindex": 1
+    "zindex": 8
 }

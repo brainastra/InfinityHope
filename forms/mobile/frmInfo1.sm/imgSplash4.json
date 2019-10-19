@@ -24,10 +24,10 @@
         0
     ],
     "_skin_": "sae1bcf36d764375bc22cd6c52a6be3e",
-    "_src_": "option1.png",
+    "_src_": "option3.png",
     "_top_": {
         "type": "string",
-        "value": "0dp"
+        "value": "10dp"
     },
     "_width_": {
         "type": "string",
@@ -46,13 +46,13 @@
         "templateType": "forms",
         "topLevelBox": null
     },
-    "id": "imgSplash1",
+    "id": "imgSplash4",
     "imagescalemode": 1,
     "info": null,
     "invokedProperty": "src",
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "e037fbe0cac5461f8688c47e938b713a",
+    "kuid": "j2275925f7e34cfa96ae371f3b167cac",
     "name": "kony.ui.Image2",
     "parent": "flxImages",
     "pf": "frmInfo1",

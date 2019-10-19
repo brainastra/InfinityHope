@@ -31,7 +31,8 @@
     "canUpdateUI": true,
     "children": [
         "lbl1Invite1",
-        "imgSplash1",
+        "flxImages",
+        "flxGetSrarted",
         "flxFooter"
     ],
     "containerweight": 100,
@@ -48,6 +49,7 @@
     "device": "iPhoneXS",
     "displayorientation": 1,
     "enabledforidletimeout": false,
+    "friendlyName": "frmInfo1",
     "id": "frmInfo1",
     "info": null,
     "initdone": false,

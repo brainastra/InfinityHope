@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "18%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "53%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sd15c3ecf6a74f389a0f0133228d9597",
+    "_text_": "Decline",
+    "_top_": {
+        "type": "string",
+        "value": "30%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "35%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s207c6cfce214c9ba002feead09dc61e",
+    "id": "btnDecline",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "b90d4dc5fb4d4aaea901280c1c8de769",
+    "name": "kony.ui.Button",
+    "parent": "flxInvite",
+    "pf": "frmDashboard",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}

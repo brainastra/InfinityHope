@@ -1,17 +1,13 @@
 {
     "DNDConfig": null,
     "__parentReadjusting__": false,
-    "_bottom_": {
-        "type": "string",
-        "value": "133dp"
-    },
     "_height_": {
         "type": "string",
-        "value": "50%"
+        "value": "73dp"
     },
     "_left_": {
         "type": "string",
-        "value": "0%"
+        "value": "14dp"
     },
     "_margin_": [
         0,
@@ -27,33 +23,33 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s47692dcf923489abadb95f27c11b257",
+    "_skin_": "s54125efee1c49d8a26068d5f17eb5b0",
     "_top_": {
         "type": "string",
-        "value": "0dp"
+        "value": "600dp"
     },
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "96.23%"
     },
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "segAccCheckingsAcc"
+        "Image0d03e42e67a1344"
     ],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "flxBody",
+    "id": "flxGetSrarted",
     "info": null,
     "iscustomlayout": false,
-    "isvisible": true,
-    "kuid": "g530f02e5f304a74be12d0a79a02ccfc",
-    "layouttype": 4,
+    "isvisible": false,
+    "kuid": "d090ad7e655a4dfc8d5e1c839311f22c",
+    "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "flxMain",
-    "pf": "frmDashboard",
+    "parent": "frmInfo1",
+    "pf": "frmInfo1",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,

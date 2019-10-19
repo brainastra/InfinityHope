@@ -1,9 +1,11 @@
 {
+    "@class": "com.kony.gen.viz.model.component.KVizUserWidget",
     "DNDConfig": null,
     "__parentReadjusting__": false,
+    "_children_": [],
     "_height_": {
         "type": "string",
-        "value": "45%"
+        "value": "100%"
     },
     "_left_": {
         "type": "string",
@@ -15,7 +17,7 @@
         0,
         0
     ],
-    "_orientation_": 6,
+    "_orientation_": 1,
     "_padding_": [
         0,
         0,
@@ -23,7 +25,7 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s54125efee1c49d8a26068d5f17eb5b0",
+    "_skin_": "s38e2d822fa746dc993836e0551a9a68",
     "_top_": {
         "type": "string",
         "value": "0dp"
@@ -32,32 +34,22 @@
         "type": "string",
         "value": "100%"
     },
-    "allboxes": [],
-    "autogrowmode": 0,
     "canUpdateUI": true,
-    "children": [
-        "totalAmount",
-        "amount",
-        "flxInvite"
-    ],
     "clipbounds": true,
-    "containerweight": 100,
+    "containerweight": 0,
+    "data": {},
     "enablescrolling": true,
-    "id": "flxTopConatiner",
+    "id": "login",
     "info": null,
-    "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "db8cb0fb2be14b678c18765a707f2c07",
+    "kuid": "ae30e2a07db0405c81ded0988dc7a368",
     "layouttype": 2,
-    "name": "kony.ui.FlexContainer",
-    "parent": "flxMain",
-    "pf": "frmDashboard",
-    "retaincontentalignment": false,
-    "retainflexpositionproperties": false,
-    "retainflowhorizontalalignment": false,
+    "masterType": 1,
+    "name": "kony.ui.UserWidgetInstance",
+    "parent": "frmLogin",
+    "pf": "frmLogin",
     "snapgridsize": 10,
     "snaptogrid": true,
-    "wType": "FlexContainer",
-    "widgetalignment": 1,
-    "zindex": 1
+    "sourceUserWidget": "cd4834da3fd340b8a65f483ef9d593a7",
+    "wType": "UserWidgetInstance"
 }

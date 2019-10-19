@@ -5,11 +5,11 @@
     "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "100dp"
+        "value": "75dp"
     },
     "_left_": {
         "type": "string",
-        "value": "100dp"
+        "value": "137dp"
     },
     "_margin_": [
         0,
@@ -24,17 +24,21 @@
         0
     ],
     "_skin_": "sae1bcf36d764375bc22cd6c52a6be3e",
-    "_src_": "option1.png",
+    "_src_": "getstarted.png",
     "_top_": {
         "type": "string",
-        "value": "0dp"
+        "value": "17dp"
     },
     "_width_": {
         "type": "string",
-        "value": "150dp"
+        "value": "200dp"
     },
     "canUpdateUI": true,
     "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
         "type": "string",
         "value": "50%"
     },
@@ -46,15 +50,15 @@
         "templateType": "forms",
         "topLevelBox": null
     },
-    "id": "imgSplash1",
+    "id": "Image0d03e42e67a1344",
     "imagescalemode": 1,
     "info": null,
     "invokedProperty": "src",
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "e037fbe0cac5461f8688c47e938b713a",
+    "kuid": "efd75fca09214829a713ef6ca39d730f",
     "name": "kony.ui.Image2",
-    "parent": "flxImages",
+    "parent": "flxGetSrarted",
     "pf": "frmInfo1",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

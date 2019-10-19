@@ -30,7 +30,8 @@
     },
     "canUpdateUI": true,
     "children": [
-        "btnNavigate"
+        "btnNavigate",
+        "login"
     ],
     "containerweight": 100,
     "controllerInfo": {

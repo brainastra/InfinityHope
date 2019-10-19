@@ -41,7 +41,7 @@
     "containerweight": 100,
     "context": {
         "channel": "mobile",
-        "formID": "frmInvite3",
+        "formID": "frmInfo3",
         "platform": "iphone",
         "templateType": "forms",
         "topLevelBox": null
@@ -52,10 +52,10 @@
     "invokedProperty": "src",
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "c39f6a45917c402b9b505f581b6fbe02",
+    "kuid": "bb7e5e9cfcc54e49ad960c5fdf8c4f00",
     "name": "kony.ui.Image2",
-    "parent": "frmInvite3",
-    "pf": "frmInvite3",
+    "parent": "frmInfo3",
+    "pf": "frmInfo3",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "srcType": 1,

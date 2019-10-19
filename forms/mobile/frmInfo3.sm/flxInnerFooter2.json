@@ -3,11 +3,11 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "73dp"
+        "value": "100%"
     },
     "_left_": {
         "type": "string",
-        "value": "14dp"
+        "value": "0dp"
     },
     "_margin_": [
         0,
@@ -26,30 +26,30 @@
     "_skin_": "s54125efee1c49d8a26068d5f17eb5b0",
     "_top_": {
         "type": "string",
-        "value": "600dp"
+        "value": "0dp"
     },
     "_width_": {
         "type": "string",
-        "value": "96.23%"
+        "value": "33%"
     },
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "Image0d03e42e67a1344"
+        "imgFooter2"
     ],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "flxGetSrarted",
+    "id": "flxInnerFooter2",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "cf485d838d664ac2a5c4d796f3221d41",
+    "kuid": "b2e5d67f98b3459fac1e15c052a0934a",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "frmInvite3",
-    "pf": "frmInvite3",
+    "parent": "flxFooter",
+    "pf": "frmInfo3",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainflowhorizontalalignment": false,

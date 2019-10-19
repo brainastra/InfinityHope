@@ -5,11 +5,11 @@
     "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "500dp"
+        "value": "75dp"
     },
     "_left_": {
         "type": "string",
-        "value": "100dp"
+        "value": "137dp"
     },
     "_margin_": [
         0,
@@ -24,34 +24,42 @@
         0
     ],
     "_skin_": "sae1bcf36d764375bc22cd6c52a6be3e",
-    "_src_": "info2.PNG",
+    "_src_": "getstarted.png",
     "_top_": {
         "type": "string",
-        "value": "110dp"
+        "value": "17dp"
     },
     "_width_": {
         "type": "string",
         "value": "200dp"
     },
     "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
     "containerweight": 100,
     "context": {
         "channel": "mobile",
-        "formID": "frmInvite2",
+        "formID": "frmInfo3",
         "platform": "iphone",
         "templateType": "forms",
         "topLevelBox": null
     },
-    "id": "imgSplash2",
+    "id": "Image0d03e42e67a1344",
     "imagescalemode": 1,
     "info": null,
     "invokedProperty": "src",
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "h2f37373bab348f590966746c4f9c989",
+    "kuid": "i6b234ee33de44a5bb10c204e39ddad8",
     "name": "kony.ui.Image2",
-    "parent": "frmInvite2",
-    "pf": "frmInvite2",
+    "parent": "flxGetSrarted",
+    "pf": "frmInfo3",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "srcType": 1,

@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "4%"
+        "value": "12.50%"
     },
     "_margin_": [
         1,
@@ -22,11 +22,11 @@
         0,
         0
     ],
-    "_skin_": "sce43c4e3f494b94a582876fc6329cad",
-    "_text_": "Transactions",
+    "_skin_": "s2a6e6e9964b4067b483f504f571ba9d",
+    "_text_": "You have been invited by abc for charity account!",
     "_top_": {
         "type": "string",
-        "value": "10%"
+        "value": "15%"
     },
     "_width_": {
         "type": "ref",
@@ -40,13 +40,9 @@
         }
     },
     "canUpdateUI": true,
-    "centery": {
-        "type": "string",
-        "value": "50%"
-    },
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "lblTrans",
+    "id": "lblInvite",
     "info": null,
     "ipad": {
         "psp": {
@@ -60,9 +56,9 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "ea50bef4b645405ea6f8289d85db4418",
+    "kuid": "cd86fa21800d419a971c57fefe3d64e3",
     "name": "kony.ui.Label",
-    "parent": "flxTransaction",
+    "parent": "flxInvite",
     "pf": "frmDashboard",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

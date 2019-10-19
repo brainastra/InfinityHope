@@ -3,11 +3,11 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "40dp"
+        "value": "63.46%"
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "0%"
     },
     "_margin_": [
         0,
@@ -26,7 +26,7 @@
     "_skin_": "s54125efee1c49d8a26068d5f17eb5b0",
     "_top_": {
         "type": "string",
-        "value": "0dp"
+        "value": "35%"
     },
     "_width_": {
         "type": "string",
@@ -36,19 +36,21 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "lblTrans"
+        "lblInvite",
+        "btnAgree",
+        "btnDecline"
     ],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "flxTransaction",
+    "id": "flxInvite",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "b0f3f111584247aead001f783090fd85",
+    "kuid": "g3b5e5317f0a45d4998c86827c00bcad",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "flxBody",
+    "parent": "flxTopConatiner",
     "pf": "frmDashboard",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

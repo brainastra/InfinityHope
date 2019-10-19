@@ -58,8 +58,6 @@
     "enablescrolling": false,
     "friendlyName": "frmLogin",
     "id": "frmLogin",
-    "ide_init": "AS_Form_fced0492493a48e4a9477143470fb3f1",
-    "ide_preShow": "AS_Form_a91f73e887cc4e4091c54c3e0a7a2200",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 3,

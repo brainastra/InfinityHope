@@ -953,11 +953,14 @@ onAdDownloadComplete : function(issuccess,adNumber){
         }, 1.5, false);
     },
     btnLoginOnClick: function() {
-       var enteredUserName = this.view.tbxUsername.text;
-       var enteredPassword = this.view.tbxPassword.text;
-       var authMode = kony.mvc.MDAApplication.getSharedInstance().getModuleManager().getModule("AuthModule");
-		authMode.presentationController.currentAuthMode = "password";
-       authMode.presentationController.onLogin({"username":enteredUserName,"password":enteredPassword}, this);     
+       var getCustomerCallback = function(status, res, err) {
+           
+        };
+        var enteredUserName = this.view.tbxUsername.text;
+        var enteredPassword = this.view.tbxPassword.text;
+        var customerModel = kony.mvc.MDAApplication.getSharedInstance().modelStore.getModelDefinition("Customer");
+        var criteria = kony.mvc.Expression.eq("$filter", "UserName eq " + enteredUserName + " and Password eq " +  enteredPassword);
+        customerModel.getByCriteria(criteria, getCustomerCallback);  
     },
     resetSkinsOfUsernameAndPwd: function() {
 	    scopeObj=this;

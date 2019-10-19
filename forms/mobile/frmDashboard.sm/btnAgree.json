@@ -38,6 +38,7 @@
     "displaytext": true,
     "focusskin": "s207c6cfce214c9ba002feead09dc61e",
     "id": "btnAgree",
+    "ide_onTouchEnd": "AS_Button_gecbe714cf25482f8856060083bda5cb",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,

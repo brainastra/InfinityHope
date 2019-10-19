@@ -13,7 +13,6 @@
             "name": "y"
         }],
         "contextObj": {
-            "name": "frmInfo2",
             "type": "forms",
             "platform": "",
             "KUID": "f50fc1d07a5a402dba7e4f1a265e6134"
@@ -23,6 +22,7 @@
             "id": "NAVIGATE_TO_FORM___c2ca3c735f5d4b2f824d5d388efb9a97",
             "type": "NAVIGATE_TO_FORM",
             "formId": "frmInfo1",
+            "friendlyName": "frmInfo1",
             "formKUID": "ec9f46a9e16840e1a4f287dcecc04a05",
             "mappings": {},
             "mappingsOrder": [],
@@ -30,7 +30,7 @@
             "callbackType": null,
             "enableMappingEditor": true,
             "package": "",
-            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onTouchEnd\",\n        \"widgetId\": \"lblFooter1\"\n    }\n}",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"\",\n        \"widgetId\": \"\"\n    }\n}",
             "isCustomInput": false
         }]
     }

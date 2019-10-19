@@ -31,7 +31,8 @@
     "canUpdateUI": true,
     "children": [
         "hamburgerMenu",
-        "flxMain"
+        "flxMain",
+        "Button0h3afd3050c8b46"
     ],
     "containerweight": 100,
     "controllerInfo": {

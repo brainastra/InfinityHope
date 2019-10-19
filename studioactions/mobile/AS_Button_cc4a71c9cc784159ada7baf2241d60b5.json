@@ -17,6 +17,7 @@
             "id": "NAVIGATE_TO_FORM___g9a3207485f44d6aaf666363a421e002",
             "type": "NAVIGATE_TO_FORM",
             "formId": "frmDashboard",
+            "friendlyName": "frmDashboard",
             "formKUID": "f6e5847757934cdd8ba2353c46b2521b",
             "mappings": {},
             "mappingsOrder": [],

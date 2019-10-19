@@ -23,6 +23,7 @@
             "id": "NAVIGATE_TO_FORM___eede152cf1d94bfe882ef670fc220da1",
             "type": "NAVIGATE_TO_FORM",
             "formId": "frmDashboard",
+            "friendlyName": "frmDashboard",
             "formKUID": "f6e5847757934cdd8ba2353c46b2521b",
             "mappings": {},
             "mappingsOrder": [],
@@ -30,7 +31,7 @@
             "callbackType": null,
             "enableMappingEditor": true,
             "package": "",
-            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onTouchEnd\",\n        \"widgetId\": \"lblFooter1\"\n    }\n}",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"\",\n        \"widgetId\": \"\"\n    }\n}",
             "isCustomInput": false
         }]
     }

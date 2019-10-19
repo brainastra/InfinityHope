@@ -42,6 +42,7 @@
     "containerweight": 100,
     "enablescrolling": true,
     "id": "flxInnerFooter1",
+    "ide_onClick": "AS_FlexContainer_h8190b8b3bdd4f3fb1cfa199392f36f6",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,

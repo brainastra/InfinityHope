@@ -15,7 +15,7 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s9649bdc5050492593e4b258319b23b4",
+    "_skin_": "s301056c61614e0c85d8f7327c8b359a",
     "_title_": null,
     "addWidgetsdone": false,
     "allboxes": [],
@@ -30,15 +30,16 @@
     },
     "canUpdateUI": true,
     "children": [
-        "hamburgerMenu",
-        "flxMain",
-        "Button0h3afd3050c8b46"
+        "lblInvite3",
+        "flxImages3",
+        "flxGetSrarted",
+        "flxFooter"
     ],
     "containerweight": 100,
     "controllerInfo": {
         "default": {
             "channel": "mobile",
-            "name": "frmDashboardController"
+            "name": "frmInfo3Controller"
         }
     },
     "currentLocale": "default",
@@ -48,8 +49,7 @@
     "device": "iPhoneXS",
     "displayorientation": 1,
     "enabledforidletimeout": false,
-    "friendlyName": "frmDashboard",
-    "id": "frmDashboard",
+    "id": "frmInfo3",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,
@@ -67,7 +67,7 @@
             "titleBarAttributes": {
                 "barStyle": 0,
                 "hidesBackButton": false,
-                "kuid": "faf4e4b4a9af470ca0f3dd6d8ed66125",
+                "kuid": "a825b559e3d745a0bef2ead63441191c",
                 "leftBarButtonItems": [],
                 "leftItemsSupplementBackButton": true,
                 "prompt": "",
@@ -78,7 +78,7 @@
                         "info": {
                             "title": "Edit"
                         },
-                        "kuid": "b5d36fa5b8c1453ca62fc065aeecf9b5",
+                        "kuid": "bcf9e46f0fd34e7da02e427287f7987e",
                         "style": 0,
                         "tintColor": "4b88f100",
                         "type": 1
@@ -95,7 +95,7 @@
     "kiosk": {
         "needAppMenu": false
     },
-    "kuid": "f6e5847757934cdd8ba2353c46b2521b",
+    "kuid": "ea920f0190bf4c2e9b54de052235724f",
     "layouttype": 2,
     "name": "kony.ui.Form2",
     "needappmenu": false,

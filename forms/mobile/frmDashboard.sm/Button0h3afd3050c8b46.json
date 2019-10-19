@@ -4,11 +4,11 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "18%"
+        "value": "50dp"
     },
     "_left_": {
         "type": "string",
-        "value": "53%"
+        "value": "30dp"
     },
     "_margin_": [
         6,
@@ -22,32 +22,32 @@
         0,
         0
     ],
-    "_skin_": "sd15c3ecf6a74f389a0f0133228d9597",
-    "_text_": "Decline",
+    "_skin_": "s0d1e0aaf05e405fba47ff61a353fb84",
+    "_text_": "Start a Campaign",
     "_top_": {
         "type": "string",
-        "value": "30%"
+        "value": "302dp"
     },
     "_width_": {
         "type": "string",
-        "value": "35%"
+        "value": "300dp"
     },
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 5,
     "displaytext": true,
     "focusskin": "s207c6cfce214c9ba002feead09dc61e",
-    "id": "btnDecline",
-    "ide_onTouchEnd": "AS_Button_e1ffffbdda254f6d94500d0992031ca7",
+    "id": "Button0h3afd3050c8b46",
+    "ide_onTouchEnd": "AS_Button_fe25cc68ed8c4af888e7f3ab389ee25e",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "b90d4dc5fb4d4aaea901280c1c8de769",
+    "kuid": "jed368a588d04423be72acbbe37958e1",
     "name": "kony.ui.Button",
-    "parent": "flxInvite",
+    "parent": "frmDashboard",
     "pf": "frmDashboard",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "wType": "Button",
-    "zindex": 1
+    "zindex": 5
 }

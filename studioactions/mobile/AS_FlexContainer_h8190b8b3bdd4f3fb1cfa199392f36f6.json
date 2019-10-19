@@ -1,31 +1,31 @@
 {
-    "AS_Button_cc4a71c9cc784159ada7baf2241d60b5": {
-        "id": "AS_Button_cc4a71c9cc784159ada7baf2241d60b5",
+    "AS_FlexContainer_h8190b8b3bdd4f3fb1cfa199392f36f6": {
+        "id": "AS_FlexContainer_h8190b8b3bdd4f3fb1cfa199392f36f6",
         "type": "ACTION_SEQUENCE",
         "params": [{
             "datatype": "collection",
             "name": "eventobject"
         }],
         "contextObj": {
-            "name": "frmLogin",
+            "name": "frmInfo1",
             "type": "forms",
             "platform": "",
-            "KUID": "b10b127d786d49fb84e0fb698761adfc"
+            "KUID": "ec9f46a9e16840e1a4f287dcecc04a05"
         },
         "language": "js",
         "actions": [{
-            "id": "NAVIGATE_TO_FORM___g9a3207485f44d6aaf666363a421e002",
+            "id": "NAVIGATE_TO_FORM___bc8b8a3c986641a0bf9e2d4c360fd961",
             "type": "NAVIGATE_TO_FORM",
             "formId": "frmDashboard",
             "friendlyName": "frmDashboard",
             "formKUID": "f6e5847757934cdd8ba2353c46b2521b",
             "mappings": {},
             "mappingsOrder": [],
-            "parentId": "",
+            "parentId": null,
             "callbackType": null,
             "enableMappingEditor": true,
             "package": "",
-            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnNavigate\"\n    }\n}",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"flxInnerFooter1\"\n    }\n}",
             "isCustomInput": false
         }]
     }

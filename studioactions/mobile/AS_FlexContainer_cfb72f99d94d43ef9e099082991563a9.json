@@ -1,16 +1,10 @@
 {
-    "AS_Label_h74a9f5ef9f84013b7b9c530d7232957": {
-        "id": "AS_Label_h74a9f5ef9f84013b7b9c530d7232957",
+    "AS_FlexContainer_cfb72f99d94d43ef9e099082991563a9": {
+        "id": "AS_FlexContainer_cfb72f99d94d43ef9e099082991563a9",
         "type": "ACTION_SEQUENCE",
         "params": [{
             "datatype": "collection",
             "name": "eventobject"
-        }, {
-            "datatype": "string",
-            "name": "x"
-        }, {
-            "datatype": "string",
-            "name": "y"
         }],
         "contextObj": {
             "name": "frmInfo1",
@@ -20,16 +14,17 @@
         },
         "language": "js",
         "actions": [{
-            "id": "NAVIGATE_TO_FORM___d30d42e0889b47aaa5dc023ead5bcd2c",
+            "id": "NAVIGATE_TO_FORM___c507612bcf61497286bf97e2d06bce35",
             "type": "NAVIGATE_TO_FORM",
-            "formKUID": "f50fc1d07a5a402dba7e4f1a265e6134",
+            "formId": "frmInfo2",
+            "formKUID": "j3a25ec725f2496e8a861993d78af047",
             "mappings": {},
             "mappingsOrder": [],
-            "parentId": "",
+            "parentId": null,
             "callbackType": null,
             "enableMappingEditor": true,
             "package": "",
-            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"\",\n        \"widgetId\": \"\"\n    }\n}",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"flxInnerFooter3\"\n    }\n}",
             "isCustomInput": false
         }]
     }

@@ -1,10 +1,16 @@
 {
-    "AS_Button_if17bd1b021d4960bab6a82c0168f2a9": {
-        "id": "AS_Button_if17bd1b021d4960bab6a82c0168f2a9",
+    "AS_Button_fe25cc68ed8c4af888e7f3ab389ee25e": {
+        "id": "AS_Button_fe25cc68ed8c4af888e7f3ab389ee25e",
         "type": "ACTION_SEQUENCE",
         "params": [{
             "datatype": "collection",
             "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
         }],
         "contextObj": {
             "name": "frmDashboard",
@@ -14,18 +20,17 @@
         },
         "language": "js",
         "actions": [{
-            "id": "NAVIGATE_TO_FORM___hf9c46ba97ad4a979f1a8efd3f475c93",
+            "id": "NAVIGATE_TO_FORM___fdc94be7fc784d109715312cd34069eb",
             "type": "NAVIGATE_TO_FORM",
-            "formId": "frmInfo1",
-            "friendlyName": "frmInfo1",
-            "formKUID": "ec9f46a9e16840e1a4f287dcecc04a05",
+            "formId": "frmSelectOrg",
+            "formKUID": "eb368f9ac2fb4de3bbaddfa06a1cb9f2",
             "mappings": {},
             "mappingsOrder": [],
             "parentId": "",
             "callbackType": null,
             "enableMappingEditor": true,
             "package": "",
-            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"\",\n        \"widgetId\": \"\"\n    }\n}",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onTouchEnd\",\n        \"widgetId\": \"Button0h3afd3050c8b46\"\n    }\n}",
             "isCustomInput": false
         }]
     }

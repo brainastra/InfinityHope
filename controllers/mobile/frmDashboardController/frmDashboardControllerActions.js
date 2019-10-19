@@ -2,14 +2,20 @@ define({
     /*
       This is an auto generated file and any modifications to it may result in corruption of the action sequence.
     */
-    /** onClick defined for btnStartCamp **/
-    AS_Button_if17bd1b021d4960bab6a82c0168f2a9: function AS_Button_if17bd1b021d4960bab6a82c0168f2a9(eventobject) {
+    /** onTouchEnd defined for Button0h3afd3050c8b46 **/
+    AS_Button_fe25cc68ed8c4af888e7f3ab389ee25e: function AS_Button_fe25cc68ed8c4af888e7f3ab389ee25e(eventobject, x, y) {
         var self = this;
-        var ntf = new kony.mvc.Navigation("frmInfo1");
+        var ntf = new kony.mvc.Navigation("frmSelectOrg");
         ntf.navigate();
     },
-    /** preShow defined for frmDashboard **/
-    AS_Form_ffdacf2c074b4522a8b6934b70d7f0ee: function AS_Form_ffdacf2c074b4522a8b6934b70d7f0ee(eventobject) {
+    /** onTouchEnd defined for btnAgree **/
+    AS_Button_gecbe714cf25482f8856060083bda5cb: function AS_Button_gecbe714cf25482f8856060083bda5cb(eventobject, x, y) {
         var self = this;
+        return self.acceptHopeInvitation.call(this);
+    },
+    /** onTouchEnd defined for btnDecline **/
+    AS_Button_e1ffffbdda254f6d94500d0992031ca7: function AS_Button_e1ffffbdda254f6d94500d0992031ca7(eventobject, x, y) {
+        var self = this;
+        return self.declineHopeInvitation.call(this);
     }
 });

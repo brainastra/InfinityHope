@@ -15,7 +15,7 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s9649bdc5050492593e4b258319b23b4",
+    "_skin_": "safab928497740048bff770b5d9a4e86",
     "_title_": null,
     "addWidgetsdone": false,
     "allboxes": [],
@@ -29,7 +29,9 @@
         "needAppMenu": false
     },
     "canUpdateUI": true,
-    "children": [],
+    "children": [
+        "flxInviteFrnds"
+    ],
     "containerweight": 100,
     "controllerInfo": {
         "default": {

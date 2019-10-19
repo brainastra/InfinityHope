@@ -46,7 +46,7 @@
     "id": "flxEnrollAccount",
     "info": null,
     "iscustomlayout": false,
-    "isvisible": true,
+    "isvisible": false,
     "kuid": "b74afeb78a444598a70740139570d981",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",

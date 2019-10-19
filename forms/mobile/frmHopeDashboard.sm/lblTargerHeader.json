@@ -23,14 +23,14 @@
         0
     ],
     "_skin_": "s3a1b457bcc1417a86d345a61b58e86e",
-    "_text_": "Target",
+    "_text_": "Collected Amount/Target Amount",
     "_top_": {
         "type": "string",
-        "value": "120dp"
+        "value": "117dp"
     },
     "_width_": {
         "type": "string",
-        "value": "30%"
+        "value": "71.11%"
     },
     "_wrapping_": 2,
     "android": {
@@ -42,7 +42,7 @@
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
-        "value": "50%"
+        "value": "49%"
     },
     "containerweight": 100,
     "contentalignment": 5,

@@ -46,7 +46,7 @@
     "id": "flxSetupDebitAccount",
     "info": null,
     "iscustomlayout": false,
-    "isvisible": false,
+    "isvisible": true,
     "kuid": "e96f46c2a62b465a8b7e8f825fedac2b",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",

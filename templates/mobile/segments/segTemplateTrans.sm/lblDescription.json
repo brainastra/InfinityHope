@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "13dp"
+        "value": "38dp"
     },
     "_margin_": [
         1,
@@ -22,11 +22,11 @@
         0,
         0
     ],
-    "_skin_": "sac9d26fe2e446bd8fd9c4ec89f49fd1",
-    "_text_": "Enrolled Accounts",
+    "_skin_": "s843ce4cd2c64e4b9d9f8299bcaca0be",
+    "_text_": "Week1 : 21-Oct to 27 -Oct",
     "_top_": {
         "type": "string",
-        "value": "4dp"
+        "value": "73dp"
     },
     "_width_": {
         "type": "ref",
@@ -40,9 +40,10 @@
         }
     },
     "canUpdateUI": true,
+    "containerId": true,
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "lblParticipantAccHeader",
+    "id": "lblDescription",
     "info": null,
     "ipad": {
         "psp": {
@@ -56,10 +57,10 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "i50085c663f44374a375756035ebb8f3",
+    "kuid": "bea3fe3b0dc54d6eb34a90d49951ce20",
     "name": "kony.ui.Label",
-    "parent": "flxAccountInfo",
-    "pf": "frmHopeDashboard",
+    "parent": "flxTrasactions",
+    "pf": "segTemplateTrans",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "textstyle": {},

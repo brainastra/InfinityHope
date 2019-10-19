@@ -8,19 +8,9 @@
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": "$Amount"
             },
-            "lblTransBy": {
+            "lblDescription": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "By Jane Doe"
-            },
-            "lblTransDate": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Transaction Date"
-            }
-        },
-        {
-            "Label0fde04b14735b4a": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "$Amount"
+                "text": "Label"
             },
             "lblTransBy": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
@@ -36,19 +26,9 @@
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": "$Amount"
             },
-            "lblTransBy": {
+            "lblDescription": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "By Jane Doe"
-            },
-            "lblTransDate": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Transaction Date"
-            }
-        },
-        {
-            "Label0fde04b14735b4a": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "$Amount"
+                "text": "Label"
             },
             "lblTransBy": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
@@ -64,19 +44,9 @@
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": "$Amount"
             },
-            "lblTransBy": {
+            "lblDescription": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "By Jane Doe"
-            },
-            "lblTransDate": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Transaction Date"
-            }
-        },
-        {
-            "Label0fde04b14735b4a": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "$Amount"
+                "text": "Label"
             },
             "lblTransBy": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
@@ -92,19 +62,9 @@
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": "$Amount"
             },
-            "lblTransBy": {
+            "lblDescription": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "By Jane Doe"
-            },
-            "lblTransDate": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "Transaction Date"
-            }
-        },
-        {
-            "Label0fde04b14735b4a": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "$Amount"
+                "text": "Label"
             },
             "lblTransBy": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
@@ -120,6 +80,10 @@
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": "$Amount"
             },
+            "lblDescription": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
             "lblTransBy": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": "By Jane Doe"
@@ -133,6 +97,82 @@
             "Label0fde04b14735b4a": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": "$Amount"
+            },
+            "lblDescription": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblTransBy": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "By Jane Doe"
+            },
+            "lblTransDate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Transaction Date"
+            }
+        },
+        {
+            "Label0fde04b14735b4a": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$Amount"
+            },
+            "lblDescription": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblTransBy": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "By Jane Doe"
+            },
+            "lblTransDate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Transaction Date"
+            }
+        },
+        {
+            "Label0fde04b14735b4a": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$Amount"
+            },
+            "lblDescription": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblTransBy": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "By Jane Doe"
+            },
+            "lblTransDate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Transaction Date"
+            }
+        },
+        {
+            "Label0fde04b14735b4a": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$Amount"
+            },
+            "lblDescription": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblTransBy": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "By Jane Doe"
+            },
+            "lblTransDate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Transaction Date"
+            }
+        },
+        {
+            "Label0fde04b14735b4a": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$Amount"
+            },
+            "lblDescription": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
             },
             "lblTransBy": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
@@ -223,7 +263,7 @@
     "selectedindex": null,
     "selectedindices": null,
     "selecteditems": null,
-    "selectedsectionindex": null,
+    "selectedsectionindex": 0,
     "selectionbehavior": "default",
     "separatorcolor": "aaaaaa00",
     "separatorrequired": true,
@@ -236,6 +276,7 @@
     "widgetdatamap": {
         "Label0fde04b14735b4a": "Label0fde04b14735b4a",
         "flxTrasactions": "flxTrasactions",
+        "lblDescription": "lblDescription",
         "lblTransBy": "lblTransBy",
         "lblTransDate": "lblTransDate"
     },

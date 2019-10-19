@@ -23,7 +23,7 @@
         "value": "2%"
     },
     "_skin_": "sac9d26fe2e446bd8fd9c4ec89f49fd1",
-    "_text_": "Debit Account",
+    "_text_": "Source Account",
     "_top_": {
         "type": "string",
         "value": "7dp"

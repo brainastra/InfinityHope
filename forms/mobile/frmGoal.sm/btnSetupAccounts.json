@@ -38,6 +38,7 @@
     "displaytext": true,
     "focusskin": "s207c6cfce214c9ba002feead09dc61e",
     "id": "btnSetupAccounts",
+    "ide_onTouchEnd": "AS_Button_g5690383e3a2412e991c551deea64d61",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,

@@ -36,7 +36,8 @@
     "children": [
         "lblTransDate",
         "lblTransBy",
-        "Label0fde04b14735b4a"
+        "Label0fde04b14735b4a",
+        "lblDescription"
     ],
     "clipbounds": true,
     "containerId": true,
@@ -50,6 +51,7 @@
     "enablescrolling": true,
     "id": "flxTrasactions",
     "info": null,
+    "isTemplate": true,
     "iscustomlayout": false,
     "isvisible": true,
     "kuid": "f4a79073d3694b2eb8ceffa09b49ed37",

@@ -29,7 +29,10 @@
         "needAppMenu": false
     },
     "canUpdateUI": true,
-    "children": [],
+    "children": [
+        "hamburgerMenu",
+        "flxMain"
+    ],
     "containerweight": 100,
     "controllerInfo": {
         "default": {
@@ -45,6 +48,7 @@
     "displayorientation": 1,
     "enabledforidletimeout": false,
     "id": "frmDashboard",
+    "ide_preShow": "AS_Form_af96f43754fe4fd8ab74fddc97b1accf",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,

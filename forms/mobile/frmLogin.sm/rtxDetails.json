@@ -22,7 +22,7 @@
         0,
         0
     ],
-    "_skin_": "s97ac006ae60466a969e2e0045721720",
+    "_skin_": "scc5316ddfcc41d3bc695cb136b8dd96",
     "_text_": "Get Home Loans from ANZ Bank with 4.95 per <br/> annum  interest rates and get free... <a href=\"\"> <b>Learn More </b></a>",
     "_top_": {
         "type": "string",
@@ -47,7 +47,7 @@
     "info": null,
     "isvisible": true,
     "kuid": "bffbffca2b3c40d28210e04ee44dd87f",
-    "linkskin": "s458e5df2af14c7d9ec19bde9e2836b4",
+    "linkskin": "s6021d58f6c74978a9111a166aa9f02b",
     "name": "kony.ui.RichText",
     "parent": "flxAdInfo",
     "pf": "frmLogin",

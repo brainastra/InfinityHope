@@ -22,7 +22,7 @@
         "type": "string",
         "value": "0dp"
     },
-    "_skin_": "s8764efb1edc47e1aabe259cb11d344e",
+    "_skin_": "s9417a5acafe4273b628e599279d5288",
     "_width_": {
         "type": "string",
         "value": "55dp"
@@ -48,7 +48,7 @@
     "kuid": "f5f87884ab3141b1b410972253fea4f7",
     "leftsidetext": "     ",
     "name": "kony.ui.Switch",
-    "osPlatform": "iphone",
+    "osPlatform": "android",
     "osVersion": "iOS7",
     "parent": "flxCheckBox",
     "pf": "frmLogin",

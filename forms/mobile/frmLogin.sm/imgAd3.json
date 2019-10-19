@@ -23,7 +23,7 @@
         0,
         0
     ],
-    "_skin_": "s679032976ec4441b527ec218f32745a",
+    "_skin_": "s04f4e603043477d8d0750394d0720bd",
     "_src_": "imagedrag.png",
     "_top_": {
         "type": "string",
@@ -38,12 +38,12 @@
     "context": {
         "channel": "mobile",
         "formID": "frmLogin",
-        "platform": "iphone",
+        "platform": "android",
         "templateType": "forms",
         "topLevelBox": null
     },
     "id": "imgAd3",
-    "ide_onDownloadComplete": "AS_Image_caf642f394ec4dc6ac32e850b6890c91",
+    "ide_onDownloadComplete": "AS_Image_ee8f6337947347d9b083bb69961bb8e6",
     "imagescalemode": 0,
     "info": null,
     "iscustomlayout": false,

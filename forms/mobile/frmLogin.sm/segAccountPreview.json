@@ -6,7 +6,7 @@
         {
             "imgBank": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                "src": "bankofamerica.png"
+                "src": "bankofamerica_1.png"
             },
             "lblAccountBal": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
@@ -28,7 +28,7 @@
         {
             "imgBank": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                "src": "citibank.png"
+                "src": "citibank_1.png"
             },
             "lblAccountBal": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
@@ -50,7 +50,7 @@
         {
             "imgBank": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                "src": "chasebank.png"
+                "src": "chasebank_1.png"
             },
             "lblAccountBal": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
@@ -72,7 +72,7 @@
         {
             "imgBank": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                "src": "citibank.png"
+                "src": "citibank_1.png"
             },
             "lblAccountBal": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
@@ -94,7 +94,7 @@
         {
             "imgBank": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                "src": "citibank.png"
+                "src": "citibank_1.png"
             },
             "lblAccountBal": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
@@ -177,11 +177,11 @@
     "parent": "flxAccountPreview",
     "pf": "frmLogin",
     "retainselection": false,
-    "rowTemplateId": "i5dd8bffd098462f97419e7fb93242b3",
+    "rowTemplateId": "h654fa8bb7f9497b8845fef75065bc6a",
     "rowcounter": 4,
     "rowfocusskin": "s7f7e1f6e5c94d28954112066d6bc29d",
     "rowskin": "s86ba05efcf94c90b0dd207568ec6edb",
-    "rowtemplate": "flxAccountPreview",
+    "rowtemplate": "CopyflxAccountPreview",
     "screenlevelwidget": false,
     "seccounter": 0,
     "sectionheaderskin": "s86970e5c28b4386b0fbe2209d65aa15",
@@ -201,7 +201,7 @@
     "wType": "Segment",
     "widgetalignment": 5,
     "widgetdatamap": {
-        "flxAccountPreview": "flxAccountPreview",
+        "CopyflxAccountPreview": "CopyflxAccountPreview",
         "imgBank": "imgBank",
         "lblAccountBal": "lblAccountBal",
         "lblAccountBalValue": "lblAccountBalValue",

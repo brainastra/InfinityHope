@@ -26,7 +26,7 @@
         "type": "string",
         "value": "20dp"
     },
-    "_skin_": "s30d39ca8c744d388569c1d52d0824b6",
+    "_skin_": "s73662032fde4a199c15c809e543a0a0",
     "_text_": "Button",
     "_top_": {
         "type": "string",
@@ -45,9 +45,9 @@
     "contentalignment": 5,
     "disabledSkins": {},
     "displaytext": true,
-    "focusskin": "s77f5e4693994923b02a151cae68403f",
+    "focusskin": "s90ff577c1714ab89f7327e3267af6b6",
     "id": "btnLogIn",
-    "ide_onClick": "AS_Button_h017d5e37a7a4482a1b1217d0ac22bed",
+    "ide_onClick": "AS_Button_h89a616e3b90456ebd8d9681a30f2c5b",
     "info": null,
     "iphone": {
         "psp": {

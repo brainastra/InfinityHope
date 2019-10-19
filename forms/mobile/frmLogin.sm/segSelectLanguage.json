@@ -10,7 +10,7 @@
         {
             "imgCheckbox": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                "src": "radiobuttoninactive.png"
+                "src": "radiobuttoninactive_1.png"
             },
             "imgFlag": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
@@ -28,7 +28,7 @@
         {
             "imgCheckbox": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                "src": "radiobuttoninactive.png"
+                "src": "radiobuttoninactive_1.png"
             },
             "imgFlag": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
@@ -46,7 +46,7 @@
         {
             "imgCheckbox": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                "src": "radiobuttoninactive.png"
+                "src": "radiobuttoninactive_1.png"
             },
             "imgFlag": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
@@ -64,7 +64,7 @@
         {
             "imgCheckbox": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                "src": "radiobuttoninactive.png"
+                "src": "radiobuttoninactive_1.png"
             },
             "imgFlag": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
@@ -82,7 +82,7 @@
         {
             "imgCheckbox": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
-                "src": "radiobuttoninactive.png"
+                "src": "radiobuttoninactive_1.png"
             },
             "imgFlag": {
                 "@class": "com.viz.ide.model.segment.ImageSegmentData",
@@ -161,11 +161,11 @@
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainselection": false,
-    "rowTemplateId": "afb40ce9ea5a4110b714db19deab65b4",
+    "rowTemplateId": "edd870bc301e4c01a43d23e5fd7f893c",
     "rowcounter": 4,
     "rowfocusskin": "s7f7e1f6e5c94d28954112066d6bc29d",
     "rowskin": "s86ba05efcf94c90b0dd207568ec6edb",
-    "rowtemplate": "flxLanguage",
+    "rowtemplate": "CopyflxLanguage",
     "screenlevelwidget": false,
     "seccounter": 0,
     "sectionheaderskin": "s86970e5c28b4386b0fbe2209d65aa15",
@@ -175,23 +175,23 @@
     "selectedindices": null,
     "selecteditems": null,
     "selectedsectionindex": 0,
-    "selectimage": "radiobtn.png",
+    "selectimage": "radiobtn_1.png",
     "selectionbehavior": "singleselect",
     "selectionbehaviorconfig": {
         "imageIdentifier": "imgCheckbox",
-        "selectedStateImage": "radiobtn.png",
-        "unselectedStateImage": "radiobuttoninactive.png"
+        "selectedStateImage": "radiobtn_1.png",
+        "unselectedStateImage": "radiobuttoninactive_1.png"
     },
     "selectionindicator": "imgCheckbox",
     "separatorrequired": false,
     "showscrollbars": false,
-    "unselectimage": "radiobuttoninactive.png",
+    "unselectimage": "radiobuttoninactive_1.png",
     "viewtype": "tableview",
     "vizProps": {},
     "wType": "Segment",
     "widgetalignment": 5,
     "widgetdatamap": {
-        "flxLanguage": "flxLanguage",
+        "CopyflxLanguage": "CopyflxLanguage",
         "imgCheckbox": "imgCheckbox",
         "imgFlag": "imgFlag",
         "lblLanguage": "lblLanguage",

@@ -22,7 +22,7 @@
         0,
         0
     ],
-    "_skin_": "s9552f12bf304e2594e7371303974876",
+    "_skin_": "s0961dd47f9e4d6091ce1f0ae03cde97",
     "_text_": "Button",
     "_top_": {
         "type": "string",
@@ -41,9 +41,9 @@
     "contentalignment": 5,
     "disabledSkins": {},
     "displaytext": true,
-    "focusskin": "sae2e4475aa3419b8c89d14cf90383cb",
+    "focusskin": "s86f33a21fbb4606a0d6a7b8392ad5a6",
     "id": "btnLocate",
-    "ide_onClick": "AS_Button_e871bfd24cd74f03b0880c9f934f9980",
+    "ide_onClick": "AS_Button_d4702bcd226c409fa4b9554754c1d145",
     "info": null,
     "iphone": {
         "psp": {

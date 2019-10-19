@@ -8,7 +8,6 @@
         "type": "string",
         "value": "100%"
     },
-    "_iphone_": {},
     "_left_": {
         "type": "string",
         "value": "0dp"
@@ -51,7 +50,7 @@
             "__info__": {
                 "isRoot": true,
                 "kuid": "i824a543693d4c48b72407936cb8917f",
-                "srcKUID": "ie413e7d00ff441480a402d8b73f47f4",
+                "srcKUID": "u9b980029f24422ead5e663b727cdb96",
                 "wType": "FlexContainer"
             }
         },
@@ -59,7 +58,7 @@
             "__events__": {},
             "__info__": {
                 "kuid": "j5c1adfffbab46aeaef57cf56688e992",
-                "srcKUID": "f56145d08fa2451fb9475e5d2bc6a01d",
+                "srcKUID": "ua5f0d6ad0ee40238df2031f7a61ab9b",
                 "wType": "FlexContainer"
             }
         },
@@ -67,7 +66,7 @@
             "__events__": {},
             "__info__": {
                 "kuid": "d340471e328547e1bf0f83e984dea14f",
-                "srcKUID": "f4638082e0dc4d7c9a5f12dbb322786e",
+                "srcKUID": "udf195b167974e54a06d88cbd3c37a9f",
                 "wType": "Image"
             }
         },
@@ -75,7 +74,7 @@
             "__events__": {},
             "__info__": {
                 "kuid": "ad23e51062bf4c1996a863832f3abeff",
-                "srcKUID": "gc00deb3138044cd9f219a4d21d5533c",
+                "srcKUID": "u4d8ebc148984edcb082d759eaddfe8a",
                 "wType": "Label"
             }
         }
@@ -94,6 +93,6 @@
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "snaptogrid": true,
-    "sourceUserWidget": "ie413e7d00ff441480a402d8b73f47f4",
+    "sourceUserWidget": "u9b980029f24422ead5e663b727cdb96",
     "wType": "UserWidgetInstance"
 }

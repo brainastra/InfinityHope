@@ -8,7 +8,6 @@
         "type": "string",
         "value": "100%"
     },
-    "_iphone_": {},
     "_left_": {
         "type": "string",
         "value": "0dp"
@@ -28,7 +27,7 @@
     ],
     "_percent_": true,
     "_render_": true,
-    "_skin_": "s06d17260ec04fa2968ec93eb38eed64",
+    "_skin_": "se9fcf732d7c41e398bbcde4d08b12e9",
     "_top_": {
         "type": "string",
         "value": "0dp"
@@ -50,7 +49,7 @@
             "__info__": {
                 "isRoot": true,
                 "kuid": "f53c94ae4ca443f9bb4a97153ed56639",
-                "srcKUID": "c032ba6ecc584fc388533f504fed76aa",
+                "srcKUID": "u075ea9451784ab682ad0771a372e591",
                 "wType": "FlexContainer"
             },
             "isVisible": false
@@ -59,17 +58,17 @@
             "__events__": {},
             "__info__": {
                 "kuid": "faa873de6a084a519f4457b1f53a54d5",
-                "srcKUID": "ie71219de4d44a2bbdd64758a347eeca",
+                "srcKUID": "u604bdf27d674e06ae168b6a9bbf0944",
                 "wType": "FlexContainer"
             }
         },
         "flxCancel": {
             "__events__": {
-                "ide_onClick": "AS_FlexContainer_e8059ee060174b45b4f31a06f675663c"
+                "ide_onClick": "AS_FlexContainer_d370f3651c95442ea8acfbfa1ec753f1"
             },
             "__info__": {
                 "kuid": "e1a8d618ec164aacb3b0032a4fe34aef",
-                "srcKUID": "if3fdc88ea7c42d083fac7797334b9b0",
+                "srcKUID": "u54ed01e796c4d6dac13922d467a5f71",
                 "wType": "FlexContainer"
             },
             "width": {
@@ -83,7 +82,7 @@
             "__events__": {},
             "__info__": {
                 "kuid": "b49c46971b4c47198abb0265c385a022",
-                "srcKUID": "cadefe45df814b7ea8d1085a1bfdb45e",
+                "srcKUID": "u092461dda2940139c0c6583e7ce39dd",
                 "wType": "FlexContainer"
             }
         },
@@ -91,7 +90,7 @@
             "__events__": {},
             "__info__": {
                 "kuid": "idc46b3849c04335b77337c4de4112f6",
-                "srcKUID": "j95f93e3461d46e4a47c964c9f08ed84",
+                "srcKUID": "ube13bdcfb7b42a082188543630b27ad",
                 "wType": "Image"
             }
         },
@@ -99,7 +98,7 @@
             "__events__": {},
             "__info__": {
                 "kuid": "f81df137097a4a2f84eda38ae472bb60",
-                "srcKUID": "d51d4d8ec1464ddc91b9635a117a8b3e",
+                "srcKUID": "ucebdd48417847c0851369c2faedb8dc",
                 "wType": "Label"
             }
         },
@@ -107,7 +106,7 @@
             "__events__": {},
             "__info__": {
                 "kuid": "cbe27f0f359d475a85c496654397afd6",
-                "srcKUID": "c6de4bf0db8547ceabe5e4fe2f4804dd",
+                "srcKUID": "u6127dcd90e8419a89e1d4c870a334e4",
                 "wType": "Label"
             }
         },
@@ -115,7 +114,7 @@
             "__events__": {},
             "__info__": {
                 "kuid": "ba5296f6cd4840fabba9ea98100cdee3",
-                "srcKUID": "c84890d60df047ef801f8ef35dae837b",
+                "srcKUID": "ubca84710f014742a7c931fcd11dfe65",
                 "wType": "Label"
             }
         }
@@ -134,7 +133,7 @@
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "snaptogrid": true,
-    "sourceUserWidget": "c032ba6ecc584fc388533f504fed76aa",
+    "sourceUserWidget": "u075ea9451784ab682ad0771a372e591",
     "wType": "UserWidgetInstance",
     "zindex": 200
 }

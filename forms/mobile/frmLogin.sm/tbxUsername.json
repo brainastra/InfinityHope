@@ -27,7 +27,7 @@
         "type": "string",
         "value": "20dp"
     },
-    "_skin_": "sdc14f85f7984e13bb5ed2544fe80fe6",
+    "_skin_": "sfd76af70d6042669c3f9c09925dc373",
     "_text_": "",
     "_top_": {
         "type": "string",
@@ -55,9 +55,9 @@
     "containerweight": 100,
     "contentalignment": 4,
     "disabledSkins": {},
-    "focusskin": "sdc14f85f7984e13bb5ed2544fe80fe6",
+    "focusskin": "sfd76af70d6042669c3f9c09925dc373",
     "id": "tbxUsername",
-    "ide_onTextChange": "AS_TextField_e33be38c6e854e89b8c32ba251be81d2",
+    "ide_onTextChange": "AS_TextField_j3bfb17b78764c0a85884c527baa7a04",
     "info": null,
     "iphone": {
         "psp": {
@@ -75,7 +75,7 @@
     "parent": "flxContent",
     "pf": "frmLogin",
     "placeholderi18n": "kony.mb.login.username",
-    "placeholderskin": "s1bcf8b78d1649a9a56fc498f08472f8",
+    "placeholderskin": "s5e55922d55546118eb84ad5caf4556d",
     "securetextentry": false,
     "textinputmode": "A",
     "tooltip": "",

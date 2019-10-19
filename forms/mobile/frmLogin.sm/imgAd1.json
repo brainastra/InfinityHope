@@ -23,8 +23,8 @@
         0,
         0
     ],
-    "_skin_": "s679032976ec4441b527ec218f32745a",
-    "_src_": "loginad.jpg",
+    "_skin_": "s04f4e603043477d8d0750394d0720bd",
+    "_src_": "imagedrag.png",
     "_top_": {
         "type": "string",
         "value": "0dp"
@@ -38,14 +38,14 @@
     "context": {
         "channel": "mobile",
         "formID": "frmLogin",
-        "platform": "iphone",
+        "platform": "android",
         "templateType": "forms",
         "topLevelBox": null
     },
     "id": "imgAd1",
+    "ide_onDownloadComplete": "AS_Image_jbf0d40101214b05ab314e6a8ce5e15c",
     "imagescalemode": 0,
     "info": null,
-    "invokedProperty": "src",
     "iscustomlayout": false,
     "isvisible": true,
     "kuid": "ab89695c58a24b78900e92bc037581f0",

@@ -19,8 +19,8 @@
         0,
         0
     ],
-    "_skin_": "s679032976ec4441b527ec218f32745a",
-    "_src_": "faceid.png",
+    "_skin_": "s04f4e603043477d8d0750394d0720bd",
+    "_src_": "faceid_1.png",
     "_top_": {
         "type": "string",
         "value": "10%"
@@ -38,7 +38,7 @@
     "context": {
         "channel": "mobile",
         "formID": "frmLogin",
-        "platform": "iphone",
+        "platform": "android",
         "templateType": "forms",
         "topLevelBox": null
     },

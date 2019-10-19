@@ -22,7 +22,7 @@
         "type": "string",
         "value": "18dp"
     },
-    "_skin_": "s1e390ffacfd42049a1aca5c94a3b670",
+    "_skin_": "s71003c5f0d94c2699390129a8c77d1b",
     "_text_": "Button",
     "_top_": {
         "type": "string",
@@ -40,7 +40,7 @@
     "containerweight": 100,
     "contentalignment": 6,
     "displaytext": true,
-    "focusskin": "s1e390ffacfd42049a1aca5c94a3b670",
+    "focusskin": "s71003c5f0d94c2699390129a8c77d1b",
     "id": "btnTouchId",
     "info": null,
     "iphone": {

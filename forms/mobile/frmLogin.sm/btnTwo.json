@@ -22,7 +22,7 @@
         0,
         0
     ],
-    "_skin_": "s3ab10e73bc24d3687ec37d64d30f97c",
+    "_skin_": "sef4128ed16d4bf788ff5d6ef6953c98",
     "_text_": "2",
     "_top_": {
         "type": "string",
@@ -37,7 +37,7 @@
     },
     "android": {
         "psp": {
-            "pressedSkin": "s588aab0c446456cbb2fb4621e70e907"
+            "pressedSkin": "s841c408b90142f99f41fa9192d7d2cf"
         }
     },
     "canUpdateUI": true,
@@ -49,7 +49,7 @@
     "contentalignment": 5,
     "disabledSkins": {},
     "displaytext": true,
-    "focusskin": "s588aab0c446456cbb2fb4621e70e907",
+    "focusskin": "s841c408b90142f99f41fa9192d7d2cf",
     "id": "btnTwo",
     "info": null,
     "iphone": {

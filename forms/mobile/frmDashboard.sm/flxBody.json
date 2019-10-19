@@ -27,7 +27,7 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s54125efee1c49d8a26068d5f17eb5b0",
+    "_skin_": "s47692dcf923489abadb95f27c11b257",
     "_top_": {
         "type": "string",
         "value": "0dp"
@@ -40,7 +40,7 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "segTransactions",
+        "flxTransaction",
         "flxNoTransaction"
     ],
     "clipbounds": true,
@@ -51,7 +51,7 @@
     "iscustomlayout": false,
     "isvisible": true,
     "kuid": "g530f02e5f304a74be12d0a79a02ccfc",
-    "layouttype": 2,
+    "layouttype": 4,
     "name": "kony.ui.FlexContainer",
     "parent": "flxMain",
     "pf": "frmDashboard",

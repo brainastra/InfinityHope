@@ -3,7 +3,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "220dp"
+        "value": "40dp"
     },
     "_left_": {
         "type": "string",
@@ -33,22 +33,22 @@
         "value": "100%"
     },
     "allboxes": [],
+    "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "totalAmount",
-        "amount"
+        "lblTrans"
     ],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "flxTopConatiner",
+    "id": "flxTransaction",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "db8cb0fb2be14b678c18765a707f2c07",
+    "kuid": "b0f3f111584247aead001f783090fd85",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "flxMain",
+    "parent": "flxBody",
     "pf": "frmDashboard",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

@@ -30,15 +30,16 @@
     },
     "canUpdateUI": true,
     "children": [
-        "lbl1Invite1",
-        "flxImages",
+        "lblInvite3",
+        "flxImages3",
+        "flxGetSrarted",
         "flxFooter"
     ],
     "containerweight": 100,
     "controllerInfo": {
         "default": {
             "channel": "mobile",
-            "name": "frmInfo1Controller"
+            "name": "frmInfo3Controller"
         }
     },
     "currentLocale": "default",
@@ -48,8 +49,7 @@
     "device": "iPhoneXS",
     "displayorientation": 1,
     "enabledforidletimeout": false,
-    "friendlyName": "frmInfo1",
-    "id": "frmInfo1",
+    "id": "frmInfo3",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,
@@ -67,7 +67,7 @@
             "titleBarAttributes": {
                 "barStyle": 0,
                 "hidesBackButton": false,
-                "kuid": "f821ea330ccb48d184ca9951da7e8c58",
+                "kuid": "a825b559e3d745a0bef2ead63441191c",
                 "leftBarButtonItems": [],
                 "leftItemsSupplementBackButton": true,
                 "prompt": "",
@@ -78,7 +78,7 @@
                         "info": {
                             "title": "Edit"
                         },
-                        "kuid": "f6203250b6364c519670e500c23f3962",
+                        "kuid": "bcf9e46f0fd34e7da02e427287f7987e",
                         "style": 0,
                         "tintColor": "4b88f100",
                         "type": 1
@@ -95,7 +95,7 @@
     "kiosk": {
         "needAppMenu": false
     },
-    "kuid": "ec9f46a9e16840e1a4f287dcecc04a05",
+    "kuid": "ea920f0190bf4c2e9b54de052235724f",
     "layouttype": 2,
     "name": "kony.ui.Form2",
     "needappmenu": false,

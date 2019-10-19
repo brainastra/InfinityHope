@@ -5,11 +5,11 @@
     "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "75dp"
+        "value": "100dp"
     },
     "_left_": {
         "type": "string",
-        "value": "137dp"
+        "value": "100dp"
     },
     "_margin_": [
         0,
@@ -24,42 +24,38 @@
         0
     ],
     "_skin_": "sae1bcf36d764375bc22cd6c52a6be3e",
-    "_src_": "getstarted.png",
+    "_src_": "option1.png",
     "_top_": {
         "type": "string",
-        "value": "17dp"
+        "value": "0dp"
     },
     "_width_": {
         "type": "string",
-        "value": "200dp"
+        "value": "150dp"
     },
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
         "value": "50%"
     },
-    "centery": {
-        "type": "string",
-        "value": "50%"
-    },
     "containerweight": 100,
     "context": {
         "channel": "mobile",
-        "formID": "frmInfo1",
+        "formID": "frmInfo3",
         "platform": "iphone",
         "templateType": "forms",
         "topLevelBox": null
     },
-    "id": "Image0d03e42e67a1344",
+    "id": "imgSplash1Flex3",
     "imagescalemode": 1,
     "info": null,
     "invokedProperty": "src",
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "efd75fca09214829a713ef6ca39d730f",
+    "kuid": "c42d15ae946a47d59b086dfb9f882c60",
     "name": "kony.ui.Image2",
-    "parent": "flxGetSrarted",
-    "pf": "frmInfo1",
+    "parent": "flxImages3",
+    "pf": "frmInfo3",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "srcType": 1,

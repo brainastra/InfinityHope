@@ -15,7 +15,7 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "safab928497740048bff770b5d9a4e86",
+    "_skin_": "s9649bdc5050492593e4b258319b23b4",
     "_title_": null,
     "addWidgetsdone": false,
     "allboxes": [],
@@ -29,26 +29,22 @@
         "needAppMenu": false
     },
     "canUpdateUI": true,
-    "children": [
-        "lblSelectOrgHeader",
-        "txtbxSearch",
-        "segCharityOrgs"
-    ],
+    "children": [],
     "containerweight": 100,
     "controllerInfo": {
         "default": {
             "channel": "mobile",
-            "name": "frmSelectOrgController"
+            "name": "frmInviteFriendsController"
         }
     },
     "currentLocale": "default",
     "desktopweb": {
         "needAppMenu": false
     },
-    "device": "Pixel3",
+    "device": "iPhoneXS",
     "displayorientation": 1,
     "enabledforidletimeout": false,
-    "id": "frmSelectOrg",
+    "id": "frmInviteFriends",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,
@@ -66,7 +62,7 @@
             "titleBarAttributes": {
                 "barStyle": 0,
                 "hidesBackButton": false,
-                "kuid": "g254337acc5c4342a8ed2a1b58acb201",
+                "kuid": "ad6f17aa96cc4c13921abef2f019d945",
                 "leftBarButtonItems": [],
                 "leftItemsSupplementBackButton": true,
                 "prompt": "",
@@ -77,7 +73,7 @@
                         "info": {
                             "title": "Edit"
                         },
-                        "kuid": "fda54c264c014a4ca4dd295b66ab1ac5",
+                        "kuid": "fde99169484a4e3d8552813a5aac4d0a",
                         "style": 0,
                         "tintColor": "4b88f100",
                         "type": 1
@@ -94,18 +90,18 @@
     "kiosk": {
         "needAppMenu": false
     },
-    "kuid": "eb368f9ac2fb4de3bbaddfa06a1cb9f2",
+    "kuid": "deabc7bc28bf42c697ef01efc1f49b8a",
     "layouttype": 2,
     "name": "kony.ui.Form2",
     "needappmenu": false,
     "paddinginpixel": false,
-    "platform": "android",
+    "platform": "iphone",
     "prevDevice": "iPhoneXS",
     "prevPlatform": "iphone",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainscrollposition": false,
-    "shellCSS": "and_Pixel3",
+    "shellCSS": "iOS_iPhoneXS",
     "snapgridsize": 10,
     "snaptogrid": true,
     "spaan": {

@@ -6,6 +6,10 @@
         "type": "ref",
         "value": "preferred"
     },
+    "_left_": {
+        "type": "string",
+        "value": "35dp"
+    },
     "_margin_": [
         1,
         1,
@@ -18,15 +22,11 @@
         0,
         0
     ],
-    "_right_": {
-        "type": "string",
-        "value": "9%"
-    },
-    "_skin_": "s72f5d68abba4a29b414595cf0a6ace2",
-    "_text_": "Timestamp",
+    "_skin_": "s31ba09489154891ad2b861eedcd1f48",
+    "_text_": "Select Organization",
     "_top_": {
         "type": "string",
-        "value": "10%"
+        "value": "35dp"
     },
     "_width_": {
         "type": "ref",
@@ -40,10 +40,9 @@
         }
     },
     "canUpdateUI": true,
-    "containerId": true,
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "lblTime",
+    "id": "lblSelectOrgHeader",
     "info": null,
     "ipad": {
         "psp": {
@@ -55,11 +54,14 @@
             "wrapping": 2
         }
     },
+    "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "48a3223d40f143de826b5a89fa00ae47",
+    "kuid": "a9a659ac34814931ad97af0b6fecfc02",
     "name": "kony.ui.Label",
-    "parent": "flxSampleRowTemplate",
-    "pf": "SampleRowTemplate",
+    "parent": "frmSelectOrg",
+    "pf": "frmSelectOrg",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
     "textstyle": {},
     "tooltip": "",
     "wType": "Label",

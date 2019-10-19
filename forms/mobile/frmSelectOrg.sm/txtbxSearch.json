@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "38dp"
+        "value": "35dp"
     },
     "_margin_": [
         0,
@@ -22,7 +22,7 @@
         0,
         0
     ],
-    "_placeholder_": "Placeholder",
+    "_placeholder_": "Search ",
     "_skin_": "sd74102dc2bd4f8a89eaedbe679f57f4",
     "_text_": "",
     "_top_": {
@@ -31,7 +31,7 @@
     },
     "_width_": {
         "type": "string",
-        "value": "300dp"
+        "value": "352dp"
     },
     "autocapitalize": "none",
     "autocomplete": false,

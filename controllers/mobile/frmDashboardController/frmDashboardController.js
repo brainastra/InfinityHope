@@ -1,17 +1,10 @@
 define({ 
 useridReceived:null,
- //Type your controller code here 
   preShow : function(){
-    alert("xyzPre"+arguments);
-   // this.HamburgerFunc();
+    this.HamburgerFunc();
         var payload={"input":"1000000001"};
-        var enteredUserName = 1000000001;
-        var InfinityHopeObjServicesModel = kony.mvc.MDAApplication.getSharedInstance().modelStore.getModelDefinition("accountFetchInfinityHope");
-        //var criteria = kony.mvc.Expression.eq("$filter", "input eq " + 1000000001 );
-    
-       InfinityHopeObjServicesModel.accountFetch(payload,this.cback);
-    
-
+        var InfinityHopeObjServicesModel = kony.mvc.MDAApplication.getSharedInstance().modelStore.getModelDefinition("accountFetchInfinityHope");   
+       InfinityHopeObjServicesModel.accountFetch(payload,this.cback);   
   },
   onNavigate: function(){
      this.useridReceived=arguments[0].userId;

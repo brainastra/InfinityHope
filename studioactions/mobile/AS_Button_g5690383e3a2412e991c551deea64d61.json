@@ -1,0 +1,37 @@
+{
+    "AS_Button_g5690383e3a2412e991c551deea64d61": {
+        "id": "AS_Button_g5690383e3a2412e991c551deea64d61",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmGoal",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d69747332ffd4081963d4f0ed748001c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___c4d680db448d4a9caa5bb24b8e1f1aac",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmSelectAccounts",
+            "formKUID": "d88d531126124930a595c841f2ddf792",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": null,
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onTouchEnd\",\n        \"widgetId\": \"btnSetupAccounts\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

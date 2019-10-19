@@ -1,0 +1,31 @@
+{
+    "AS_Button_if17bd1b021d4960bab6a82c0168f2a9": {
+        "id": "AS_Button_if17bd1b021d4960bab6a82c0168f2a9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmDashboard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f6e5847757934cdd8ba2353c46b2521b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___hf9c46ba97ad4a979f1a8efd3f475c93",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmInfo1",
+            "formKUID": "ec9f46a9e16840e1a4f287dcecc04a05",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": null,
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onClick\",\n        \"widgetId\": \"btnStartCamp\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

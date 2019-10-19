@@ -1,0 +1,37 @@
+{
+    "AS_Label_ca167d89a9a44a00b1ac633b098976b3": {
+        "id": "AS_Label_ca167d89a9a44a00b1ac633b098976b3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmInfo1",
+            "type": "forms",
+            "platform": "",
+            "KUID": "ec9f46a9e16840e1a4f287dcecc04a05"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___eede152cf1d94bfe882ef670fc220da1",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmDashboard",
+            "formKUID": "f6e5847757934cdd8ba2353c46b2521b",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": null,
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onTouchEnd\",\n        \"widgetId\": \"lblFooter1\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

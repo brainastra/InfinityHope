@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "31dp"
+        "value": "33dp"
     },
     "_margin_": [
         6,
@@ -23,10 +23,10 @@
         0
     ],
     "_skin_": "s0d1e0aaf05e405fba47ff61a353fb84",
-    "_text_": "Lets Get Started",
+    "_text_": "Start Campaign temp",
     "_top_": {
         "type": "string",
-        "value": "557dp"
+        "value": "137dp"
     },
     "_width_": {
         "type": "string",
@@ -37,14 +37,15 @@
     "contentalignment": 5,
     "displaytext": true,
     "focusskin": "s207c6cfce214c9ba002feead09dc61e",
-    "id": "btnStartCompaign",
+    "id": "btnStartCamp",
+    "ide_onClick": "AS_Button_if17bd1b021d4960bab6a82c0168f2a9",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "i7cb0ede740a4bafb32f9a82228e9c69",
+    "kuid": "ae068daa90b44b339e29c35a39c95e6c",
     "name": "kony.ui.Button",
-    "parent": "flxContainer",
-    "pf": "frmHopeDashboard",
+    "parent": "flxTopConatiner",
+    "pf": "frmDashboard",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "wType": "Button",

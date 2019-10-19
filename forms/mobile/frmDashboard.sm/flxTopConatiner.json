@@ -36,7 +36,8 @@
     "canUpdateUI": true,
     "children": [
         "totalAmount",
-        "amount"
+        "amount",
+        "btnStartCamp"
     ],
     "clipbounds": true,
     "containerweight": 100,

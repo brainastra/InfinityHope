@@ -40,7 +40,10 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "btnStartCompaign"
+        "flxProgressHeader",
+        "flxAccountInfo",
+        "flxGraphs",
+        "flxTransactions"
     ],
     "clipbounds": true,
     "containerweight": 100,

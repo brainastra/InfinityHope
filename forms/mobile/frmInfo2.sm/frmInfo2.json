@@ -48,6 +48,7 @@
     "device": "iPhoneXS",
     "displayorientation": 1,
     "enabledforidletimeout": false,
+    "friendlyName": "frmInfo2",
     "id": "frmInfo2",
     "info": null,
     "initdone": false,

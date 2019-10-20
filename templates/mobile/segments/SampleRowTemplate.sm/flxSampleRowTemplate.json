@@ -25,7 +25,8 @@
     "children": [
         "lblHeading",
         "lblDescription",
-        "lblStrip"
+        "lblStrip",
+        "lblAmount"
     ],
     "clipbounds": true,
     "containerId": true,

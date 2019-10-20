@@ -954,7 +954,7 @@ onAdDownloadComplete : function(issuccess,adNumber){
     },
   btnLoginOnClick: function() {
     var getCustomerCallback = function(status, res, err) {
-      var x = new kony.mvc.Navigation("frmDashboard");
+      var x = new kony.mvc.Navigation("frmDashboardNew");
       var uid = res[0].id;
       var obj={userId:uid};
       x.navigate(obj);

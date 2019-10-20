@@ -31,8 +31,7 @@
     "canUpdateUI": true,
     "children": [
         "flxMain",
-        "Button0h3afd3050c8b46",
-        "hamburgerMenu"
+        "hamburgerMenu",
         "btnShowCampn"
     ],
     "containerweight": 100,

@@ -4,7 +4,8 @@ define({
 
   selectDebitAccount : function(){
     this.view.flxEnrollAccount.isVisible=false;
-    this.view.flxSetupDebitAccount.isVisible=true;
+   // this.view.flxSetupDebitAccount.isVisible=true;
+    this.view.flxSuccess.isVisible = true;
   },
 
   openSuccessFlex: function(){

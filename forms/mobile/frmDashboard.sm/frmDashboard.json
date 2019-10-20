@@ -30,7 +30,6 @@
     },
     "canUpdateUI": true,
     "children": [
-        "hamburgerMenu",
         "flxMain",
         "Button0h3afd3050c8b46"
     ],
@@ -50,7 +49,7 @@
     "enabledforidletimeout": false,
     "friendlyName": "frmDashboard",
     "id": "frmDashboard",
-    "ide_onNavigate": "AS_Form_de1ac8a06ed84894a4c5279e8f7180a4",
+    "ide_preShow": "AS_Form_e7da716174864e53a2674f8ab0cd4954",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,
@@ -102,8 +101,8 @@
     "needappmenu": false,
     "paddinginpixel": false,
     "platform": "iphone",
-    "prevDevice": "iPhoneXS",
-    "prevPlatform": "iphone",
+    "prevDevice": "Pixel3",
+    "prevPlatform": "android",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainscrollposition": false,

@@ -1,6 +1,6 @@
 define({ 
 useridReceived:null,
-  preShow : function(){
+  preShowOfFrmDashboard : function(){
     /* this.view.segAccCheckingsAcc.widgetDataMap={ 
           lblHeading:"Account_id", 
           lblDescription:"AccountName"
@@ -11,27 +11,26 @@ useridReceived:null,
        InfinityHopeObjServicesModel.accountFetch(payload,this.cback);         
   },
   onNavigate: function(){
-    if(arguments[0]!=null || arguments[0]!=undefined){
-     this.useridReceived=arguments[0].userId;
-    }
+   if(arguments[0]!=null || arguments[0]!=undefined){
+    this.useridReceived=arguments[0].userId;
+   }
   },
-  postShow : function(){
-  },
-  
   cback: function(resp){
     var resp=arguments[1].records;
  //   this.setTotalAmount();
     this.setValuesToSegment(resp);
   },
-  setTotalAmount: function(){
+ /* setTotalAmount: function(){
     
-  },
+  },*/
   setValuesToSegment: function(resp){
     var arr=[];
     for(var i=0;i<resp.length;i++){
       var temp={	
-        		 "lblHeading":resp[i].Account_id,
-                 "lblDescription":resp[i].AccountName
+        		 "lblHeading":{"text":resp[i].Account_id},
+                 "lblDescription":{"text":resp[i].AccountName},
+        		 "lblStrip":{"isVisible":true,"text":""},
+        		 "lblAmount":{"text":resp[i].AvailableBalance}
                };
       arr.push(temp);
     }

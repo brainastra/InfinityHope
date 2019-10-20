@@ -4,6 +4,10 @@
     "__parentReadjusting__": false,
     "_data_": [
         {
+            "lblAmount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
             "lblDescription": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": "Sub-Heading"
@@ -16,53 +20,11 @@
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": ""
             }
-        },
-        {
-            "lblDescription": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": ""
-            },
-            "lblHeading": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "jsargbvh"
-            },
-            "lblStrip": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": ""
-            }
-        },
-        {
-            "lblDescription": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": ""
-            },
-            "lblHeading": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "jkdb"
-            },
-            "lblStrip": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": ""
-            }
-        },
-        {
-            "lblDescription": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": ""
-            },
-            "lblHeading": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": "jdb "
-            },
-            "lblStrip": {
-                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
-                "text": ""
-            }
         }
     ],
     "_height_": {
-        "type": "string",
-        "value": "75dp"
+        "type": "ref",
+        "value": "preferred"
     },
     "_indicator_": "none",
     "_left_": {
@@ -90,10 +52,10 @@
         "type": "string",
         "value": "100%"
     },
-    "autogrowmode": 0,
+    "autogrowmode": 1,
     "canUpdateUI": true,
     "containerweight": 100,
-    "counter": "03",
+    "counter": "00",
     "focusedindex": null,
     "focuseditem": null,
     "groupcells": false,
@@ -107,7 +69,7 @@
     },
     "iphone": {
         "psp": {
-            "indicator": "rowselect"
+            "indicator": "none"
         }
     },
     "iscustomlayout": false,
@@ -127,7 +89,7 @@
     "retainflexpositionproperties": false,
     "retainselection": false,
     "rowTemplateId": "5b5ada69c50746feba6a40270fa09838",
-    "rowcounter": 3,
+    "rowcounter": 0,
     "rowfocusskin": "s7f7e1f6e5c94d28954112066d6bc29d",
     "rowskin": "s86ba05efcf94c90b0dd207568ec6edb",
     "rowtemplate": "flxSampleRowTemplate",
@@ -151,6 +113,7 @@
     "widgetalignment": 5,
     "widgetdatamap": {
         "flxSampleRowTemplate": "flxSampleRowTemplate",
+        "lblAmount": "lblAmount",
         "lblDescription": "lblDescription",
         "lblHeading": "lblHeading",
         "lblStrip": "lblStrip"

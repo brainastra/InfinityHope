@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "4%"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s0d1e0aaf05e405fba47ff61a353fb84",
+    "_text_": "See transactions",
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s207c6cfce214c9ba002feead09dc61e",
+    "id": "btnTransaction",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "e055f25c4dc54b6eb7296b3c25b8afbf",
+    "name": "kony.ui.Button",
+    "parent": "flxGraphs",
+    "pf": "frmHopeDashboard",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 5
+}

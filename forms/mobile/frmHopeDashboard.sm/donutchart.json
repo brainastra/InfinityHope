@@ -5,7 +5,7 @@
     "_children_": [],
     "_height_": {
         "type": "string",
-        "value": "100%"
+        "value": "80%"
     },
     "_left_": {
         "type": "string",
@@ -34,6 +34,7 @@
         "type": "string",
         "value": "104%"
     },
+    "autogrowmode": 0,
     "canUpdateUI": true,
     "clipbounds": true,
     "containerweight": 0,

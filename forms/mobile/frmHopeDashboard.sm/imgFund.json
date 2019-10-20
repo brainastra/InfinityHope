@@ -38,12 +38,14 @@
     "context": {
         "channel": "mobile",
         "formID": "frmHopeDashboard",
+        "platform": "iphone",
         "templateType": "forms",
         "topLevelBox": null
     },
     "id": "imgFund",
     "imagescalemode": 1,
     "info": null,
+    "invokedProperty": "src",
     "iscustomlayout": false,
     "isvisible": true,
     "kuid": "aca8ba26656f4ac4b9799a561b240cac",

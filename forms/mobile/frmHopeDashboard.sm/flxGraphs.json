@@ -3,7 +3,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "50%"
+        "value": "65.84%"
     },
     "_left_": {
         "type": "string",
@@ -37,6 +37,7 @@
     "canUpdateUI": true,
     "children": [
         "donutchart",
+        "btnTransaction",
         "flxAlert"
     ],
     "clipbounds": true,

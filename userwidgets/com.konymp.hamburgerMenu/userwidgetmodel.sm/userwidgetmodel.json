@@ -26,10 +26,12 @@
     ],
     "containerweight": 100,
     "currentLocale": "default",
-    "device": "Pixel3",
+    "device": "desktopweb",
     "displayorientation": 3,
     "enabledforidletimeout": false,
-    "globalUserWidgetRefs": [],
+    "globalUserWidgetRefs": [
+        "u474a4d6eb824f7f862ce8746d9f8bbb"
+    ],
     "id": "userwidgetmodel",
     "info": null,
     "initdone": false,
@@ -48,13 +50,13 @@
         "formTransition": "None"
     },
     "paddinginpixel": false,
-    "platform": "android",
-    "prevDevice": "desktopweb",
-    "prevPlatform": "desktopweb",
+    "platform": "desktopweb",
+    "prevDevice": "iPhoneXS",
+    "prevPlatform": "spaip",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "retainscrollposition": false,
-    "shellCSS": "and_Pixel3",
+    "shellCSS": "desktop",
     "titlebar": true,
     "type": 3,
     "wType": "Form"

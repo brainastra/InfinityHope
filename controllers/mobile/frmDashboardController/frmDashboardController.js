@@ -5,7 +5,7 @@ useridReceived:null,
           lblHeading:"Account_id", 
           lblDescription:"AccountName"
      };*/
-   // this.HamburgerFunc();
+    this.HamburgerFunc();
     var payload={"input":"1000000001"};
         var InfinityHopeObjServicesModel = kony.mvc.MDAApplication.getSharedInstance().modelStore.getModelDefinition("accountFetchInfinityHope");   
        InfinityHopeObjServicesModel.accountFetch(payload,this.cback);         
@@ -94,7 +94,7 @@ useridReceived:null,
         }
       else if(itemName == '"Infinity Hope"')
       {
-        var y = new kony.mvc.Navigation('frmSelectOrg');
+        var y = new kony.mvc.Navigation('frmInfo1');
         y.navigate();
       }
   };

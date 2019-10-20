@@ -32,7 +32,7 @@
     },
     "_width_": {
         "type": "string",
-        "value": "104.89%"
+        "value": "104%"
     },
     "canUpdateUI": true,
     "clipbounds": true,

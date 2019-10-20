@@ -3,7 +3,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "25.32%"
+        "value": "30%"
     },
     "_left_": {
         "type": "string",
@@ -42,7 +42,9 @@
         "lblStartDateHeader",
         "lblOrganizer",
         "lblTarget",
-        "lblStartDate"
+        "lblStartDate",
+        "flxTargetComplete",
+        "lblTragetComplete"
     ],
     "clipbounds": true,
     "containerweight": 100,

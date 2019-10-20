@@ -3,8 +3,12 @@
     "DNDConfig": null,
     "__parentReadjusting__": false,
     "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
         "type": "string",
-        "value": "16%"
+        "value": "2%"
     },
     "_margin_": [
         1,
@@ -18,15 +22,15 @@
         0,
         0
     ],
-    "_skin_": "se0bc8f7c17645388abb595f703580b4",
-    "_text_": "$30/$100",
+    "_skin_": "s2ae0c2297b24f128be8a92ca72a64a0",
+    "_text_": "Logout",
     "_top_": {
         "type": "string",
-        "value": "60%"
+        "value": "5dp"
     },
     "_width_": {
-        "type": "string",
-        "value": "70%"
+        "type": "ref",
+        "value": "preferred"
     },
     "_wrapping_": 2,
     "android": {
@@ -36,13 +40,13 @@
         }
     },
     "canUpdateUI": true,
-    "centerx": {
+    "centery": {
         "type": "string",
         "value": "50%"
     },
     "containerweight": 100,
-    "contentalignment": 5,
-    "id": "lblTarget",
+    "contentalignment": 4,
+    "id": "lblLogout",
     "info": null,
     "ipad": {
         "psp": {
@@ -56,10 +60,10 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "fc2d2f261edf483a984d0de899c4983b",
+    "kuid": "u9018b9f248f4ea3922c7f4f34f17268",
     "name": "kony.ui.Label",
-    "parent": "flxProgressHeader",
-    "pf": "frmHopeDashboard",
+    "parent": "flxLogout",
+    "pf": "userwidgetmodel",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "textstyle": {},

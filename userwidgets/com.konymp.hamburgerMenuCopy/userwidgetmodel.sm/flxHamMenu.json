@@ -3,11 +3,11 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "4%"
+        "value": "100%"
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "0%"
     },
     "_margin_": [
         0,
@@ -23,37 +23,49 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s54125efee1c49d8a26068d5f17eb5b0",
+    "_right_": {
+        "type": "string",
+        "value": "28dp"
+    },
+    "_skin_": "s70f12530c014bdeb7c7aa28f8861d06",
     "_top_": {
         "type": "string",
         "value": "0%"
     },
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "80%"
     },
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "lblParticipantAccHeader",
-        "Label0gbadd78c928a47"
+        "flxHeader",
+        "flxHeaderSeparator",
+        "segMenu",
+        "flxLogout",
+        "flxFooter"
     ],
     "clipbounds": true,
     "containerweight": 100,
+    "desktopweb": {
+        "width": {
+            "type": "string",
+            "value": "40%"
+        }
+    },
     "enablescrolling": true,
-    "id": "flxAccountInfo",
+    "id": "flxHamMenu",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "b5243dfbf1df4d1186d5817b6c69be26",
-    "layouttype": 2,
+    "kuid": "u30427fbc43f43deab362940909343ec",
+    "layouttype": 4,
     "name": "kony.ui.FlexContainer",
-    "parent": "flxContainer",
-    "pf": "frmHopeDashboard",
+    "parent": "flxMenuTrans",
+    "pf": "userwidgetmodel",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
-    "retainflowhorizontalalignment": false,
     "snapgridsize": 10,
     "snaptogrid": true,
     "wType": "FlexContainer",

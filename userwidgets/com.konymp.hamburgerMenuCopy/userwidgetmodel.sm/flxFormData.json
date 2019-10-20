@@ -3,7 +3,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "4%"
+        "value": "100%"
     },
     "_left_": {
         "type": "string",
@@ -26,7 +26,7 @@
     "_skin_": "s54125efee1c49d8a26068d5f17eb5b0",
     "_top_": {
         "type": "string",
-        "value": "0%"
+        "value": "0dp"
     },
     "_width_": {
         "type": "string",
@@ -36,24 +36,22 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "lblParticipantAccHeader",
-        "Label0gbadd78c928a47"
+        "imgHamburger"
     ],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "flxAccountInfo",
+    "id": "flxFormData",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "b5243dfbf1df4d1186d5817b6c69be26",
+    "kuid": "uc606b5d51f84125b0b1536f8e59c7f8",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "flxContainer",
-    "pf": "frmHopeDashboard",
+    "parent": "hamburgerMenuCopy",
+    "pf": "userwidgetmodel",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
-    "retainflowhorizontalalignment": false,
     "snapgridsize": 10,
     "snaptogrid": true,
     "wType": "FlexContainer",

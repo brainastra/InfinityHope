@@ -4,7 +4,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "16%"
+        "value": "100%"
     },
     "_margin_": [
         1,
@@ -18,15 +18,11 @@
         0,
         0
     ],
-    "_skin_": "se0bc8f7c17645388abb595f703580b4",
-    "_text_": "$30/$100",
-    "_top_": {
-        "type": "string",
-        "value": "60%"
-    },
+    "_skin_": "sab7aff2c59e484a821ac44ffc431edb",
+    "_text_": "Copyright 2019 Kony, Inc. All rights reserved.",
     "_width_": {
-        "type": "string",
-        "value": "70%"
+        "type": "ref",
+        "value": "preferred"
     },
     "_wrapping_": 2,
     "android": {
@@ -40,9 +36,13 @@
         "type": "string",
         "value": "50%"
     },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
     "containerweight": 100,
     "contentalignment": 5,
-    "id": "lblTarget",
+    "id": "lblFooterText",
     "info": null,
     "ipad": {
         "psp": {
@@ -56,10 +56,10 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "fc2d2f261edf483a984d0de899c4983b",
+    "kuid": "u2c0d0c9a5d2427b843ffff5dbf62678",
     "name": "kony.ui.Label",
-    "parent": "flxProgressHeader",
-    "pf": "frmHopeDashboard",
+    "parent": "flxFooter",
+    "pf": "userwidgetmodel",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "textstyle": {},

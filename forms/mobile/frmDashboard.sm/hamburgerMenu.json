@@ -25,7 +25,7 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "sbd66b5c9c92450cab65c50af4013eb1",
+    "_skin_": "s54125efee1c49d8a26068d5f17eb5b0",
     "_top_": {
         "type": "string",
         "value": "0%"
@@ -52,8 +52,8 @@
     "id": "hamburgerMenu",
     "info": null,
     "iscustomlayout": false,
-    "isvisible": false,
-    "kuid": "i7b72e232f2943ada9d8da0a94670861",
+    "isvisible": true,
+    "kuid": "he0dd747360843c49019f92426ce4f10",
     "layouttype": 2,
     "masterType": 1,
     "name": "kony.ui.UserWidgetInstance",
@@ -63,7 +63,7 @@
     "retainflexpositionproperties": false,
     "snapgridsize": 10,
     "snaptogrid": true,
-    "sourceUserWidget": "d011116df79f476f8482a846515be4af",
+    "sourceUserWidget": "ue7caac3ccba45d29201e9c12f0df3d4",
     "wType": "UserWidgetInstance",
-    "zindex": 5
+    "zindex": 10
 }

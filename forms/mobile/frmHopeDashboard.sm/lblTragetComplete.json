@@ -4,7 +4,11 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "16%"
+        "value": "12%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5%"
     },
     "_margin_": [
         1,
@@ -18,15 +22,15 @@
         0,
         0
     ],
-    "_skin_": "se0bc8f7c17645388abb595f703580b4",
-    "_text_": "$30/$100",
+    "_skin_": "sed0666fd517482ca44097496046f39c",
+    "_text_": "\"Congratulations your infinity hope target is achieved!\"\n\"The amount will be credited to selected organisation\"",
     "_top_": {
         "type": "string",
-        "value": "60%"
+        "value": "80%"
     },
     "_width_": {
         "type": "string",
-        "value": "70%"
+        "value": "90%"
     },
     "_wrapping_": 2,
     "android": {
@@ -36,13 +40,9 @@
         }
     },
     "canUpdateUI": true,
-    "centerx": {
-        "type": "string",
-        "value": "50%"
-    },
     "containerweight": 100,
     "contentalignment": 5,
-    "id": "lblTarget",
+    "id": "lblTragetComplete",
     "info": null,
     "ipad": {
         "psp": {
@@ -56,7 +56,7 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "fc2d2f261edf483a984d0de899c4983b",
+    "kuid": "ca384aba343a4756837dd63557d73f6e",
     "name": "kony.ui.Label",
     "parent": "flxProgressHeader",
     "pf": "frmHopeDashboard",

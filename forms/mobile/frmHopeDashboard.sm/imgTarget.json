@@ -1,9 +1,11 @@
 {
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
     "DNDConfig": null,
     "__parentReadjusting__": false,
+    "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "4%"
+        "value": "100%"
     },
     "_left_": {
         "type": "string",
@@ -15,48 +17,45 @@
         0,
         0
     ],
-    "_orientation_": 6,
     "_padding_": [
         0,
         0,
         0,
         0
     ],
-    "_percent_": true,
-    "_skin_": "s54125efee1c49d8a26068d5f17eb5b0",
+    "_skin_": "s04f4e603043477d8d0750394d0720bd",
+    "_src_": "success1.png",
     "_top_": {
         "type": "string",
-        "value": "0%"
+        "value": "0dp"
     },
     "_width_": {
         "type": "string",
         "value": "100%"
     },
-    "allboxes": [],
-    "autogrowmode": 0,
     "canUpdateUI": true,
-    "children": [
-        "lblParticipantAccHeader",
-        "Label0gbadd78c928a47"
-    ],
-    "clipbounds": true,
     "containerweight": 100,
-    "enablescrolling": true,
-    "id": "flxAccountInfo",
+    "context": {
+        "channel": "mobile",
+        "formID": "frmHopeDashboard",
+        "platform": "iphone",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "id": "imgTarget",
+    "imagescalemode": 1,
     "info": null,
+    "invokedProperty": "src",
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "b5243dfbf1df4d1186d5817b6c69be26",
-    "layouttype": 2,
-    "name": "kony.ui.FlexContainer",
-    "parent": "flxContainer",
+    "kuid": "bf66395cb56449ac896c7c3643cc05bc",
+    "name": "kony.ui.Image2",
+    "parent": "flxTargetComplete",
     "pf": "frmHopeDashboard",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
-    "retainflowhorizontalalignment": false,
-    "snapgridsize": 10,
-    "snaptogrid": true,
-    "wType": "FlexContainer",
-    "widgetalignment": 1,
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
     "zindex": 1
 }

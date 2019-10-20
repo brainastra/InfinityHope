@@ -24,14 +24,14 @@
         0
     ],
     "_skin_": "sae1bcf36d764375bc22cd6c52a6be3e",
-    "_src_": "info3.PNG",
+    "_src_": "donateblue.png",
     "_top_": {
         "type": "string",
         "value": "0dp"
     },
     "_width_": {
         "type": "string",
-        "value": "150%"
+        "value": "100%"
     },
     "canUpdateUI": true,
     "centerx": {

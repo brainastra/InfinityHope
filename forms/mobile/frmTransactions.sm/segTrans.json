@@ -1,0 +1,266 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "lblAmount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$3.10"
+            },
+            "lblDesc": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Infinty hope fund"
+            },
+            "lblName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Jack"
+            },
+            "lbldate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2019-10-19"
+            }
+        },
+        {
+            "lblAmount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$3.05"
+            },
+            "lblDesc": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Infinty hope fund"
+            },
+            "lblName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Jack"
+            },
+            "lbldate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2019-10-20"
+            }
+        },
+        {
+            "lblAmount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$4.35"
+            },
+            "lblDesc": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Infinty hope fund"
+            },
+            "lblName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Jack"
+            },
+            "lbldate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2019-10-21"
+            }
+        },
+        {
+            "lblAmount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$2.45"
+            },
+            "lblDesc": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Infinty hope fund"
+            },
+            "lblName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Adam"
+            },
+            "lbldate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2019-10-19"
+            }
+        },
+        {
+            "lblAmount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$3.05"
+            },
+            "lblDesc": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Infinty hope fund"
+            },
+            "lblName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Adam"
+            },
+            "lbldate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2019-10-20"
+            }
+        },
+        {
+            "lblAmount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$2.00"
+            },
+            "lblDesc": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Infinty hope fund"
+            },
+            "lblName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Adam"
+            },
+            "lbldate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2019-10-21"
+            }
+        },
+        {
+            "lblAmount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$1.55"
+            },
+            "lblDesc": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Infinty hope fund"
+            },
+            "lblName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Alexa"
+            },
+            "lbldate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2019-10-19"
+            }
+        },
+        {
+            "lblAmount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$2.10"
+            },
+            "lblDesc": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Infinty hope fund"
+            },
+            "lblName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Alexa"
+            },
+            "lbldate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2019-10-20"
+            }
+        },
+        {
+            "lblAmount": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "$0.90"
+            },
+            "lblDesc": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Infinty hope fund"
+            },
+            "lblName": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Alexa"
+            },
+            "lbldate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2019-10-21"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "08",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segTrans",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "e4eb7b0fb94847fa97ca5a26750b30ff",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "flxBody",
+    "pf": "frmTransactions",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "h657771590424960b705a2d24d39ce8a",
+    "rowcounter": 8,
+    "rowfocusskin": "s7f7e1f6e5c94d28954112066d6bc29d",
+    "rowskin": "s526dc4aa0a5462da1c6d4043b083bec",
+    "rowtemplate": "flxTrans",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s86970e5c28b4386b0fbe2209d65aa15",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": null,
+    "selectionbehavior": "default",
+    "separatorcolor": "aaaaaa00",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxTrans": "flxTrans",
+        "lblAmount": "lblAmount",
+        "lblDesc": "lblDesc",
+        "lblName": "lblName",
+        "lbldate": "lbldate"
+    },
+    "zindex": 1
+}

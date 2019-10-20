@@ -13,6 +13,10 @@ useridReceived:null,
   onNavigate: function(){
    if(arguments[0]!=null || arguments[0]!=undefined){
     this.useridReceived=arguments[0].userId;
+     if(this.useridReceived !== "1000000002")
+       {
+         this.view.flxInvite.isVisible=false;
+       }
    }
   },
   cback: function(resp){

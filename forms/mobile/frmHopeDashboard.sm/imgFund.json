@@ -1,13 +1,15 @@
 {
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
     "DNDConfig": null,
     "__parentReadjusting__": false,
+    "_base64_": null,
     "_height_": {
         "type": "string",
-        "value": "50%"
+        "value": "100%"
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "0%"
     },
     "_margin_": [
         0,
@@ -15,49 +17,43 @@
         0,
         0
     ],
-    "_orientation_": 6,
     "_padding_": [
         0,
         0,
         0,
         0
     ],
-    "_percent_": true,
-    "_skin_": "s54125efee1c49d8a26068d5f17eb5b0",
+    "_skin_": "s04f4e603043477d8d0750394d0720bd",
+    "_src_": "imagedrag.png",
     "_top_": {
         "type": "string",
-        "value": "0%"
+        "value": "10%"
     },
     "_width_": {
         "type": "string",
         "value": "100%"
     },
-    "allboxes": [],
-    "autogrowmode": 0,
     "canUpdateUI": true,
-    "children": [
-        "donutchart",
-        "flxAlert"
-    ],
-    "clipbounds": true,
     "containerweight": 100,
-    "enablescrolling": true,
-    "id": "flxGraphs",
+    "context": {
+        "channel": "mobile",
+        "formID": "frmHopeDashboard",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "id": "imgFund",
+    "imagescalemode": 1,
     "info": null,
     "iscustomlayout": false,
-    "ismodalcontainer": false,
     "isvisible": true,
-    "kuid": "d45835112f114f1aa23c10eb154304fd",
-    "layouttype": 2,
-    "name": "kony.ui.FlexContainer",
-    "parent": "flxContainer",
+    "kuid": "aca8ba26656f4ac4b9799a561b240cac",
+    "name": "kony.ui.Image2",
+    "parent": "flxImage",
     "pf": "frmHopeDashboard",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
-    "retainflowhorizontalalignment": false,
-    "snapgridsize": 10,
-    "snaptogrid": true,
-    "wType": "FlexContainer",
-    "widgetalignment": 1,
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
     "zindex": 1
 }

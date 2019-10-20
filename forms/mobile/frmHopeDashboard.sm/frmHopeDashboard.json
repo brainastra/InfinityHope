@@ -48,6 +48,7 @@
     "enabledforidletimeout": false,
     "friendlyName": "frmHopeDashboard",
     "id": "frmHopeDashboard",
+    "ide_preShow": "AS_Form_e5d84e2a82174968a1ba01306c804ed3",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,

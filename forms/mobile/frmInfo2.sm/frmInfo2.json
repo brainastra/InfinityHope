@@ -32,7 +32,8 @@
     "children": [
         "lbl2",
         "flxImages2",
-        "flxFooter"
+        "flxFooter",
+        "lblWeRoundUP"
     ],
     "containerweight": 100,
     "controllerInfo": {

@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "100dp"
+        "value": "144dp"
     },
     "_margin_": [
         1,
@@ -22,15 +22,15 @@
         0,
         0
     ],
-    "_skin_": "s68bb25650994cda8dc07ba7a3682173",
-    "_text_": ".. and we make sure your donations go directly to the causes you care about",
+    "_skin_": "s1e14490f37c4eb7b6c3c0398470366a",
+    "_text_": "We round up the charge on your transactions..",
     "_top_": {
         "type": "string",
-        "value": "37dp"
+        "value": "200dp"
     },
     "_width_": {
         "type": "string",
-        "value": "65%"
+        "value": "50%"
     },
     "_wrapping_": 2,
     "android": {
@@ -44,9 +44,13 @@
         "type": "string",
         "value": "50%"
     },
+    "centery": {
+        "type": "string",
+        "value": "75%"
+    },
     "containerweight": 100,
-    "contentalignment": 4,
-    "id": "lblInvite3",
+    "contentalignment": 5,
+    "id": "lblWeRoundUP",
     "info": null,
     "ipad": {
         "psp": {
@@ -60,10 +64,10 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "c6753e0411ae4bdf8bc291060814f60e",
+    "kuid": "b61c2c40a8994efd93a49eb77adaab2f",
     "name": "kony.ui.Label",
-    "parent": "frmInfo3",
-    "pf": "frmInfo3",
+    "parent": "frmInfo2",
+    "pf": "frmInfo2",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "textstyle": {},

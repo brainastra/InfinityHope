@@ -7,8 +7,9 @@ useridReceived:null,
        InfinityHopeObjServicesModel.accountFetch(payload,this.cback);         
   },
   onNavigate: function(){
+    if(arguments[0]!=null || arguments[0]!=undefined){
      this.useridReceived=arguments[0].userId;
-     
+    }
   },
   postShow : function(){
   },

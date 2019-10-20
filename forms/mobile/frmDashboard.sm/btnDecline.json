@@ -38,6 +38,7 @@
     "displaytext": true,
     "focusskin": "s207c6cfce214c9ba002feead09dc61e",
     "id": "btnDecline",
+    "ide_onTouchEnd": "AS_Button_b8699d6d8c6b4a988a524fd8da12ac7f",
     "info": null,
     "iscustomlayout": false,
     "isvisible": true,

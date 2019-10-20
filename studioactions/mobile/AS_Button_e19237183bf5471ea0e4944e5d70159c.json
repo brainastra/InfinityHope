@@ -1,6 +1,6 @@
 {
-    "AS_Button_fe25cc68ed8c4af888e7f3ab389ee25e": {
-        "id": "AS_Button_fe25cc68ed8c4af888e7f3ab389ee25e",
+    "AS_Button_e19237183bf5471ea0e4944e5d70159c": {
+        "id": "AS_Button_e19237183bf5471ea0e4944e5d70159c",
         "type": "ACTION_SEQUENCE",
         "params": [{
             "datatype": "collection",
@@ -20,18 +20,18 @@
         },
         "language": "js",
         "actions": [{
-            "id": "NAVIGATE_TO_FORM___fdc94be7fc784d109715312cd34069eb",
+            "id": "NAVIGATE_TO_FORM___c74013a6d2f94db6a0a8668b53d7d104",
             "type": "NAVIGATE_TO_FORM",
-            "formId": "frmHopeDashboard",
-            "friendlyName": "frmHopeDashboard",
-            "formKUID": "h8cff1bac8724ed38e629ce3248f6d25",
+            "formId": "frmSelectAccounts",
+            "friendlyName": "frmSelectAccounts",
+            "formKUID": "d88d531126124930a595c841f2ddf792",
             "mappings": {},
             "mappingsOrder": [],
-            "parentId": "",
+            "parentId": null,
             "callbackType": null,
             "enableMappingEditor": true,
             "package": "",
-            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onTouchEnd\",\n        \"widgetId\": \"btnShowCampn\"\n    }\n}",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"onTouchEnd\",\n        \"widgetId\": \"btnAgree\"\n    }\n}",
             "isCustomInput": false
         }]
     }

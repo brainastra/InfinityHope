@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "30dp"
+        "value": "33dp"
     },
     "_margin_": [
         6,
@@ -23,7 +23,7 @@
         0
     ],
     "_skin_": "s0d1e0aaf05e405fba47ff61a353fb84",
-    "_text_": "Start a Campaign",
+    "_text_": "Show Started Hope Campaign",
     "_top_": {
         "type": "string",
         "value": "302dp"
@@ -33,11 +33,15 @@
         "value": "300dp"
     },
     "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
     "containerweight": 100,
     "contentalignment": 5,
     "displaytext": true,
     "focusskin": "s207c6cfce214c9ba002feead09dc61e",
-    "id": "Button0h3afd3050c8b46",
+    "id": "btnShowCampn",
     "ide_onTouchEnd": "AS_Button_fe25cc68ed8c4af888e7f3ab389ee25e",
     "info": null,
     "iscustomlayout": false,

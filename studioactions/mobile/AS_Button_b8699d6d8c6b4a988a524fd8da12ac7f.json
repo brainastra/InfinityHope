@@ -1,0 +1,34 @@
+{
+    "AS_Button_b8699d6d8c6b4a988a524fd8da12ac7f": {
+        "id": "AS_Button_b8699d6d8c6b4a988a524fd8da12ac7f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmDashboard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f6e5847757934cdd8ba2353c46b2521b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___g95a2c4a7f7248ce9412ffa5c1c2ed5a",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "declineInvitation",
+            "display": "declineInvitation",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

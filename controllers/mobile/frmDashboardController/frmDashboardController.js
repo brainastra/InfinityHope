@@ -1,5 +1,10 @@
 define({ 
 useridReceived:null,
+  
+  
+  declineInvitation: function(){
+    this.view.flxInvite.isVisible = false;
+  },
   preShowOfFrmDashboard : function(){
     /* this.view.segAccCheckingsAcc.widgetDataMap={ 
           lblHeading:"Account_id", 
@@ -14,11 +19,10 @@ useridReceived:null,
    if(arguments[0]!=null || arguments[0]!=undefined){
     this.useridReceived=arguments[0].userId;
      
+     if(this.useridReceived !== '1000000002')
+       this.view.flxInvite.isVisible = false;
+     
      kony.store.setItem("loggedinUserId", this.useridReceived);
-     if(this.useridReceived !== "1000000002")
-       {
-         this.view.flxInvite.isVisible=false;
-       }
    }
   },
   cback: function(resp){
@@ -35,6 +39,8 @@ useridReceived:null,
     for(var i=0;i<resp.length;i++){
       	if(resp[i].Type_id  == 8){
           amountInHopeAccount = resp[i].AvailableBalance;
+          if(amountInHopeAccount > 0)
+            this.view.btnShowCampn.isVisible = true;
           kony.store.setItem("amountInHopeAccount", amountInHopeAccount);
         }
       var temp={	
@@ -111,6 +117,7 @@ useridReceived:null,
         y.navigate();
       }
   };
-    },
+    }
+  
   
  });

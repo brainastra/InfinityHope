@@ -222,7 +222,7 @@
     "focuseditem": null,
     "groupcells": false,
     "hasSections": false,
-    "id": "segListOfTransactions",
+    "id": "segTransaction",
     "info": null,
     "ipad": {
         "psp": {
@@ -231,7 +231,8 @@
     },
     "iphone": {
         "psp": {
-            "indicator": "rowselect"
+            "indicator": "rowselect",
+            "showProgressIndicator": false
         }
     },
     "iscustomlayout": false,
@@ -263,11 +264,12 @@
     "selectedindex": null,
     "selectedindices": null,
     "selecteditems": null,
-    "selectedsectionindex": 0,
+    "selectedsectionindex": null,
     "selectionbehavior": "default",
     "separatorcolor": "aaaaaa00",
     "separatorrequired": true,
     "separatorthickness": 1,
+    "showprogressindicator": false,
     "showscrollbars": false,
     "viewtype": "tableview",
     "vizProps": {},

@@ -45,7 +45,7 @@
     "id": "flxAccountInfo",
     "info": null,
     "iscustomlayout": false,
-    "isvisible": true,
+    "isvisible": false,
     "kuid": "b5243dfbf1df4d1186d5817b6c69be26",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",

@@ -3,7 +3,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "132%"
+        "value": "80%"
     },
     "_left_": {
         "type": "string",
@@ -49,7 +49,7 @@
     "kuid": "id695858a6fa4e159eb36d0816a6a94a",
     "layouttype": 4,
     "name": "kony.ui.FlexContainer",
-    "parent": "flxGraphs",
+    "parent": "flxContainer",
     "pf": "frmHopeDashboard",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,

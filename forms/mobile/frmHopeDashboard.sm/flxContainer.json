@@ -42,7 +42,8 @@
     "children": [
         "flxProgressHeader",
         "flxAccountInfo",
-        "flxGraphs"
+        "flxGraphs",
+        "flxAlert"
     ],
     "clipbounds": true,
     "containerweight": 100,

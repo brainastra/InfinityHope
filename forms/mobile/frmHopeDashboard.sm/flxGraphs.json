@@ -37,8 +37,7 @@
     "canUpdateUI": true,
     "children": [
         "donutchart",
-        "btnTransaction",
-        "flxAlert"
+        "btnTransaction"
     ],
     "clipbounds": true,
     "containerweight": 100,

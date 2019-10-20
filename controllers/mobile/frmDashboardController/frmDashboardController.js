@@ -28,6 +28,15 @@ useridReceived:null,
   cback: function(resp){
     var resp=arguments[1].records;
  //   this.setTotalAmount();
+    var totalBal=0;
+    for(var i=0;i<resp.length;i++)
+    {
+        if(resp[i].Type_id!=="3" && resp[i].Type_id!=="8")
+        {
+            totalBal=totalBal+parseFloat(resp[i].AvailableBalance);
+        }
+    }
+     this.view.amount.text=totalBal;
     this.setValuesToSegment(resp);
   },
  /* setTotalAmount: function(){

@@ -61,6 +61,7 @@
     "groupcells": false,
     "hasSections": false,
     "id": "segAccCheckingsAcc",
+    "ide_onRowClick": "AS_Segment_e15b0388d8c8498498f294e730c879fe",
     "info": null,
     "ipad": {
         "psp": {

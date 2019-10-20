@@ -47,7 +47,10 @@ useridReceived:null,
         		 "lblHeading":{"text":resp[i].Account_id},
                  "lblDescription":{"text":resp[i].AccountName},
         		 "lblStrip":{"isVisible":true,"text":""},
-        		 "lblAmount":{"text":resp[i].AvailableBalance}
+        		 "lblAmount":{"text":resp[i].AvailableBalance},
+                  "type_id":resp[i].Type_id,
+         
+        
                };
       arr.push(temp);
     }
@@ -58,6 +61,17 @@ useridReceived:null,
       this.view.forceLayout();
      
   },
+  accountClickNavigation: function(){
+    
+    var rowIndex=this.view.segAccCheckingsAcc.selectedRowIndex[1];
+    var data= this.view.segAccCheckingsAcc.data[rowIndex];
+  if(data.type_id =="8"){
+     var y = new kony.mvc.Navigation('frmHopeDashboard');
+        y.navigate();
+  }
+
+  },
+  ///
   HamburgerFunc : function(){
     if(this.view.hamburgerMenu.isVisible===false)
       {

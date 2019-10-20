@@ -1,0 +1,34 @@
+{
+    "AS_Segment_e15b0388d8c8498498f294e730c879fe": {
+        "id": "AS_Segment_e15b0388d8c8498498f294e730c879fe",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmDashboard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f6e5847757934cdd8ba2353c46b2521b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___b88e737d968c46fe8ec5150728bf35ca",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "accountClickNavigation",
+            "display": "accountClickNavigation",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "controller"
+        }]
+    }
+}

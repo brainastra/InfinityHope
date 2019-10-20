@@ -3,7 +3,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "50%"
+        "value": "132%"
     },
     "_left_": {
         "type": "string",
@@ -23,10 +23,10 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s54125efee1c49d8a26068d5f17eb5b0",
+    "_skin_": "s41df2abde4b48be842ce49854d9a946",
     "_top_": {
         "type": "string",
-        "value": "0%"
+        "value": "0dp"
     },
     "_width_": {
         "type": "string",
@@ -36,21 +36,20 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "donutchart",
-        "flxAlert"
+        "flxImage",
+        "lblAlert"
     ],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "flxGraphs",
+    "id": "flxAlert",
     "info": null,
     "iscustomlayout": false,
-    "ismodalcontainer": false,
-    "isvisible": true,
-    "kuid": "d45835112f114f1aa23c10eb154304fd",
-    "layouttype": 2,
+    "isvisible": false,
+    "kuid": "id695858a6fa4e159eb36d0816a6a94a",
+    "layouttype": 4,
     "name": "kony.ui.FlexContainer",
-    "parent": "flxContainer",
+    "parent": "flxGraphs",
     "pf": "frmHopeDashboard",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
@@ -59,5 +58,5 @@
     "snaptogrid": true,
     "wType": "FlexContainer",
     "widgetalignment": 1,
-    "zindex": 1
+    "zindex": 5
 }

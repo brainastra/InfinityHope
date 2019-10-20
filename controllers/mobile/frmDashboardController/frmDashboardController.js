@@ -15,6 +15,10 @@ useridReceived:null,
     this.useridReceived=arguments[0].userId;
      
      kony.store.setItem("loggedinUserId", this.useridReceived);
+     if(this.useridReceived !== "1000000002")
+       {
+         this.view.flxInvite.isVisible=false;
+       }
    }
   },
   cback: function(resp){

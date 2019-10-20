@@ -4,18 +4,31 @@ define({
   },
 
   onNavigate: function(){
-    var amount;
+    var userName;
+    var loggedInUser = kony.store.getItem("loggedinUserId")
+    if(loggedInUser == '1000000001')
+      {
+        userName = "Jack";
+      }
+    else
+      {
+        userName = "Adam"
+      }
+    
+    this.view.lblOrganizer.text = userName;
+    
+    var amountInHope = kony.store.getItem("amountInHopeAccount");
 
-    if(arguments[0]!=null || arguments[0]!=undefined){
-      amount =  arguments[0].amount;
+//     if(arguments[0]!=null || arguments[0]!=undefined){
+//       amount =  arguments[0].amount;
 
-    }
-    else{ 
-      amount = 90;
-    }
+//     }
+//     else{ 
+//       amount = 90;
+//     }
 
     var chartDataToSet;
-    if( amount >= 100){
+    if( amountInHope >= 100){
       this.view.imgTarget.isVisible = true;
       this.view.lblTragetComplete.isVisible = true;
       this.view.lblTarget.text = "$100/$100";
@@ -27,7 +40,7 @@ define({
         {"colorCode": "#76c044", "label": "Alexa", "value": 30}
       ];
     }
-    else if(amount == 0){
+    else if(amountInHope == 0){
       this.view.imgTarget.isVisible = false;
       this.view.lblTragetComplete.isVisible = false;
       this.view.lblTarget.isVisible = false;

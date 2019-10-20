@@ -13,6 +13,8 @@ useridReceived:null,
   onNavigate: function(){
    if(arguments[0]!=null || arguments[0]!=undefined){
     this.useridReceived=arguments[0].userId;
+     
+     kony.store.setItem("loggedinUserId", this.useridReceived);
    }
   },
   cback: function(resp){
@@ -24,8 +26,13 @@ useridReceived:null,
     
   },*/
   setValuesToSegment: function(resp){
+    var amountInHopeAccount = 0;
     var arr=[];
     for(var i=0;i<resp.length;i++){
+      	if(resp[i].Type_id  == 8){
+          amountInHopeAccount = resp[i].AvailableBalance;
+          kony.store.setItem("amountInHopeAccount", amountInHopeAccount);
+        }
       var temp={	
         		 "lblHeading":{"text":resp[i].Account_id},
                  "lblDescription":{"text":resp[i].AccountName},
@@ -34,6 +41,8 @@ useridReceived:null,
                };
       arr.push(temp);
     }
+    
+    
       
       this.view.segAccCheckingsAcc.setData(arr);
       this.view.forceLayout();

@@ -1,7 +1,5 @@
 define({ 
 
-
-
   selectDebitAccount : function(){
     this.view.flxEnrollAccount.isVisible=false;
    // this.view.flxSetupDebitAccount.isVisible=true;

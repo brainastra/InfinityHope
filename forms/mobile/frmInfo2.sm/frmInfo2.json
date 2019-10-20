@@ -30,7 +30,7 @@
     },
     "canUpdateUI": true,
     "children": [
-        "lblInvite2",
+        "lbl2",
         "flxImages2",
         "flxFooter"
     ],

@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "100dp"
+        "value": "147dp"
     },
     "_margin_": [
         1,
@@ -22,15 +22,15 @@
         0,
         0
     ],
-    "_skin_": "s68bb25650994cda8dc07ba7a3682173",
-    "_text_": "be charitable and help the society",
+    "_skin_": "s1e14490f37c4eb7b6c3c0398470366a",
+    "_text_": "Set the goal",
     "_top_": {
         "type": "string",
-        "value": "37dp"
+        "value": "0dp"
     },
     "_width_": {
         "type": "string",
-        "value": "65%"
+        "value": "80%"
     },
     "_wrapping_": 2,
     "android": {
@@ -40,9 +40,13 @@
         }
     },
     "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
     "containerweight": 100,
-    "contentalignment": 4,
-    "id": "lblInvite2",
+    "contentalignment": 5,
+    "id": "lblSetAGoal",
     "info": null,
     "ipad": {
         "psp": {
@@ -56,10 +60,10 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "e9d1981fa39f437092bd738d5519770a",
+    "kuid": "fb8d568e9b6649f5991dbe31dc063129",
     "name": "kony.ui.Label",
-    "parent": "frmInfo2",
-    "pf": "frmInfo2",
+    "parent": "flxImages",
+    "pf": "frmInfo1",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "textstyle": {},

@@ -40,9 +40,13 @@
         "value": "50%"
     },
     "children": [
+        "lblSelCause",
         "imgSplash1",
+        "lblSetAGoal",
         "imgSplash2",
+        "lblLinkAccount",
         "imgSplash3",
+        "lblInviteFriends",
         "imgSplash4"
     ],
     "clipbounds": true,

@@ -23,7 +23,7 @@
         "value": "85dp"
     },
     "_skin_": "sb8c4149c5d74f068f197ae20df30dfd",
-    "_text_": "",
+    "_text_": "Remember Me",
     "_top_": {
         "type": "string",
         "value": "30.50%"
@@ -63,7 +63,6 @@
     "name": "kony.ui.Label",
     "parent": "flxContent",
     "pf": "frmLogin",
-    "texti18n": "kony.mb.login.rememberMe",
     "textstyle": {},
     "tooltip": "",
     "wType": "Label",

@@ -5,7 +5,7 @@
             "custom": [
                 {
                     "group": "General",
-                    "kuid": "ad950678b72b418899c5a4debca144dc",
+                    "kuid": "d6c65f876a8c466d9114917cc0da7d6f",
                     "paramList": [
                         {
                             "name": "isVisible"
@@ -21,7 +21,7 @@
                 },
                 {
                     "group": "General",
-                    "kuid": "eca12c2611e74d658e8d6312e7fa495b",
+                    "kuid": "ab92e796d2ed4feb8d7fe834d250b1e7",
                     "paramList": [
                         {
                             "name": "formReference"
@@ -42,7 +42,7 @@
             "custom": [
                 {
                     "group": "General",
-                    "kuid": "c9d5d812492145feb3acf77918300423",
+                    "kuid": "dd6c95f4343a4ae98fbbe92acfd83729",
                     "paramList": [
                         {
                             "name": "menuItemObject"
@@ -62,7 +62,7 @@
                 {
                     "access": "Enable",
                     "group": "General",
-                    "kuid": "h9f3498529d4454ba8200b8d882b3453",
+                    "kuid": "a210787e5df046aea32c7886a3585a82",
                     "originalPropertyKey": "onClick",
                     "propertyIndex": 2,
                     "propertyKey": "onLogoutClick",
@@ -96,7 +96,7 @@
                 {
                     "access": "Enable",
                     "group": "General",
-                    "kuid": "d62e79db21ac453489226f2faaa0a84d",
+                    "kuid": "e16f87f42dd346aeaef82ddc5863db68",
                     "originalPropertyKey": "isVisible",
                     "propertyIndex": 5,
                     "propertyKey": "menuVisibility",
@@ -115,7 +115,7 @@
                 {
                     "access": "Enable",
                     "group": "General",
-                    "kuid": "i777b4f4c25a47ac8e8ca4b5b8038e64",
+                    "kuid": "ca030123cc304f52926f8e49d8715daa",
                     "originalPropertyKey": "data",
                     "propertyIndex": 6,
                     "propertyKey": "menuItems",
@@ -143,7 +143,7 @@
                 {
                     "access": "Enable",
                     "group": "General",
-                    "kuid": "cece5cb9bca74f1a93d6d477fec733e1",
+                    "kuid": "e9bda0619357436f8d13bb593fd0a387",
                     "originalPropertyKey": "text",
                     "propertyIndex": 7,
                     "propertyKey": "userName",
@@ -162,7 +162,7 @@
                 {
                     "access": "Enable",
                     "group": "General",
-                    "kuid": "df427e0253664cfcb227782c9c9a35ad",
+                    "kuid": "g33120fa159a467aa86081e847778ac0",
                     "originalPropertyKey": "text",
                     "propertyIndex": 8,
                     "propertyKey": "footerText",
@@ -181,7 +181,7 @@
                 {
                     "access": "Enable",
                     "group": "General",
-                    "kuid": "e0dc7b49d69a40bc80941c5037f343d9",
+                    "kuid": "aab53866797f45ac92c2ec0b55571c38",
                     "originalPropertyKey": "src",
                     "propertyIndex": 9,
                     "propertyKey": "profileImage",
@@ -209,7 +209,7 @@
                 {
                     "access": "Enable",
                     "group": "General",
-                    "kuid": "a1dc10e09fb44a31a928199e184ffd01",
+                    "kuid": "f33164edce46489db1b86af39ecd4d21",
                     "originalPropertyKey": "text",
                     "propertyIndex": 11,
                     "propertyKey": "userMail",

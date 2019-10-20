@@ -74,7 +74,6 @@
     "name": "kony.ui.TextBox2",
     "parent": "flxContent",
     "pf": "frmLogin",
-    "placeholderi18n": "kony.mb.login.username",
     "placeholderskin": "s5e55922d55546118eb84ad5caf4556d",
     "securetextentry": false,
     "textinputmode": "A",

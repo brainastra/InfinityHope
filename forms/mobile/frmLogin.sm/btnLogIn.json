@@ -27,7 +27,7 @@
         "value": "20dp"
     },
     "_skin_": "s73662032fde4a199c15c809e543a0a0",
-    "_text_": "Button",
+    "_text_": "Sign In",
     "_top_": {
         "type": "string",
         "value": "41.50%"
@@ -59,7 +59,6 @@
     "name": "kony.ui.Button",
     "parent": "flxContent",
     "pf": "frmLogin",
-    "texti18n": "kony.mb.login.logIn",
     "wType": "Button",
     "zindex": 1
 }

@@ -23,7 +23,7 @@
         0,
         0
     ],
-    "_skin_": "s31f6ec31fdc4908bd37a40fc95d84b3",
+    "_skin_": "s04f4e603043477d8d0750394d0720bd",
     "_src_": "hamberger_1.png",
     "_top_": {
         "type": "string",
@@ -41,9 +41,9 @@
     },
     "containerweight": 100,
     "context": {
-        "channel": "mobile",
+        "channel": "desktop",
         "formID": "uwu1f45d3ad34348e582edfcd9072d7d45",
-        "platform": "android",
+        "platform": "desktopweb",
         "templateType": "userwidgets",
         "topLevelBox": null
     },

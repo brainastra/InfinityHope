@@ -31,7 +31,7 @@
     "canUpdateUI": true,
     "children": [
         "flxTransactionHeader",
-        "segListOfTransactions"
+        "segTransaction"
     ],
     "containerweight": 100,
     "controllerInfo": {
@@ -48,6 +48,7 @@
     "displayorientation": 1,
     "enabledforidletimeout": false,
     "id": "frmListOfTransactions",
+    "ide_preShow": "AS_Form_g4497775e9294fceb961eb255a0a130f",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,

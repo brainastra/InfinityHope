@@ -1,19 +1,32 @@
 define({ 
 
  //Type your controller code here 
-  preShow : function(){
-    /* this.view.segListOfTransactions.widgetDataMap={ 
-          lblHeading:"Account_id", 
-          lblDescription:"AccountName"
-     };*/
-    var payload={"input":"1000000001"};
+  earlyLoad : function(){
+    var payload={"input":"190128223246001"};
         var InfinityHopeObjServicesModel = kony.mvc.MDAApplication.getSharedInstance().modelStore.getModelDefinition("transfinityFetchOnFromInfinityHope");   
        InfinityHopeObjServicesModel.transfinityFetchBasedOnFrom(payload,this.cback);         
   },
-  cback: function(resp){
-    
-    this.view.segListOfTransactions.setData(resp);
-    
+  
+  onNavigate: function(){
+    var dummy="";
+  },
+  cback: function(){
+    kony.application.showLoadingScreen();
+    var resp=arguments[1].records;
+     var arr=[];
+    for(var i=0;i<resp.length;i++){
+      var temp={	
+        		 "lblAmnt":{"text":resp[i].amount},
+                 "lblDes":{"text":resp[i].description},
+                 "lblAccountID":{"isVisible":true,"text":""},
+        		 "lblDT":{"text":resp[i].transactiondate}
+        
+               };
+      arr.push(temp);
+    }      
+      this.view.segTransaction.setData(arr);
+     kony.application.dismissLoadingScreen();
+      
   },
 
  });
